@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "target": "qlkh",
     "public": "dist",
     "ignore": [
       "firebase.json",

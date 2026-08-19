@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "project-ad668"
-  }
+  },
+  "targets": {
+    "project-ad668": {
+      "hosting": {
+        "qlkh": [
+          "qlkh-lamuong"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
