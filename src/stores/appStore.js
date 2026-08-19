@@ -1,5 +1,12 @@
 import { makeAutoObservable } from 'mobx'
 import { DATA_KEY, isoToday, loadSession, saveSession, uid } from '../lib/utils'
+import masterMaterials from '../data/materials.json'
+
+const defaultBusinessNames = [
+  'Xí nghiệp khai thác khoáng sản',
+  'Xí nghiệp khai thác khoáng sản - Vĩnh Thái',
+  'Xí nghiệp khai thác khoáng sản - Vĩnh Tú',
+]
 
 const seedData = () => {
   const businessId = uid('business')
@@ -22,12 +29,52 @@ const seedData = () => {
   }
 }
 
+const ensureDefaultBusinesses = data => {
+  const currentBusinesses = data.businesses || []
+  const legacyBusiness = currentBusinesses.find(item => item.name === 'Doanh nghiệp mẫu')
+  const defaults = defaultBusinessNames.map((name, index) => {
+    const existing = currentBusinesses.find(item => item.name === name)
+    if (existing) return existing
+    if (index === 0 && legacyBusiness) return { ...legacyBusiness, name, code: 'DN-001' }
+    return { id: uid('business'), name, code: `DN-00${index + 1}` }
+  })
+  const defaultIds = new Set(defaults.map(item => item.id))
+  const additionalBusinesses = currentBusinesses.filter(item => !defaultIds.has(item.id))
+  return { ...data, businesses: [...defaults, ...additionalBusinesses] }
+}
+
+const legacyProductSkus = ['DTH-046', 'VB-6205', 'GT-001']
+const ensureMasterProducts = data => {
+  const products = data.products || []
+  const masterNames = new Set(masterMaterials.map(material => material.name))
+  if (masterMaterials.every(material => products.some(product => product.name === material.name))) return data
+
+  const legacyBySku = Object.fromEntries(products.filter(product => legacyProductSkus.includes(product.sku)).map(product => [product.sku, product]))
+  const masterProducts = masterMaterials.map((material, index) => {
+    const existing = products.find(product => product.name === material.name)
+    const legacy = legacyBySku[legacyProductSkus[index]]
+    return {
+      ...material,
+      id: existing?.id || legacy?.id || uid('product'),
+      sku: existing?.sku || `VT-${String(index + 1).padStart(4, '0')}`,
+      quantity: existing?.quantity ?? legacy?.quantity ?? 0,
+      reorderPoint: existing?.reorderPoint ?? legacy?.reorderPoint ?? 10,
+    }
+  })
+  const additionalProducts = products.filter(product => !masterNames.has(product.name) && !legacyProductSkus.includes(product.sku))
+  return { ...data, products: [...masterProducts, ...additionalProducts] }
+}
+
 const loadData = () => {
   try {
     const stored = JSON.parse(localStorage.getItem(DATA_KEY))
-    if (stored) return stored
+    if (stored) {
+      const migrated = ensureMasterProducts(ensureDefaultBusinesses(stored))
+      localStorage.setItem(DATA_KEY, JSON.stringify(migrated))
+      return migrated
+    }
   } catch { /* fallback below */ }
-  const initial = seedData()
+  const initial = ensureMasterProducts(ensureDefaultBusinesses(seedData()))
   localStorage.setItem(DATA_KEY, JSON.stringify(initial))
   return initial
 }
@@ -46,7 +93,26 @@ export class AppStore {
   update(mutator) { this.data = mutator(this.data); this.persist() }
 
   addProduct(form) {
-    this.update(data => ({ ...data, products: [...data.products, { ...form, id: uid('product'), quantity: Number(form.quantity), reorderPoint: Number(form.reorderPoint), unitPrice: Number(form.unitPrice) }] }))
+    this.update(data => {
+      let skuNumber = data.products.length + 1
+      let sku = `VT-${String(skuNumber).padStart(3, '0')}`
+      while (data.products.some(product => product.sku === sku)) {
+        skuNumber += 1
+        sku = `VT-${String(skuNumber).padStart(3, '0')}`
+      }
+      return {
+        ...data,
+        products: [...data.products, { ...form, id: uid('product'), sku, quantity: 0, reorderPoint: 10, unitPrice: Number(form.unitPrice), notes: form.notes?.trim() || '' }],
+      }
+    })
+  }
+  updateProduct(id, form) {
+    this.update(data => ({
+      ...data,
+      products: data.products.map(product => product.id === id
+        ? { ...product, name: form.name.trim(), unit: form.unit, unitPrice: Number(form.unitPrice), notes: form.notes?.trim() || '' }
+        : product),
+    }))
   }
   removeProduct(id) { this.update(data => ({ ...data, products: data.products.filter(product => product.id !== id) })) }
   addCustomer(form) { const customer = { ...form, id: uid('customer'), status: 'Active' }; this.update(data => ({ ...data, customers: [...data.customers, customer] })); return customer }

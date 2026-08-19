@@ -1,0 +1,7766 @@
+[
+  {
+    "name": "Áp tô mát 1pha 10A Mishu",
+    "unit": "cái",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Áp tô mát 1pha 15A Mishu",
+    "unit": "cái",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Áp tô mát 1pha 20A Mishu",
+    "unit": "cái",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Áp tô mát 3pha 30A Mishu",
+    "unit": "cái",
+    "unitPrice": 485000,
+    "notes": null
+  },
+  {
+    "name": "Áp tô mát 3pha 40A Mishu",
+    "unit": "cái",
+    "unitPrice": 650000,
+    "notes": null
+  },
+  {
+    "name": "Áp tô mát 3pha 50A Mishu",
+    "unit": "cái",
+    "unitPrice": 590000,
+    "notes": null
+  },
+  {
+    "name": "Áp tô mát 3pha 60A Mishu",
+    "unit": "cái",
+    "unitPrice": 900000,
+    "notes": null
+  },
+  {
+    "name": "Áp tô mát 3pha 75A Mishu",
+    "unit": "cái",
+    "unitPrice": 1100000,
+    "notes": null
+  },
+  {
+    "name": "Áp tô mát 3pha 100A Mishu",
+    "unit": "cái",
+    "unitPrice": 1472000,
+    "notes": null
+  },
+  {
+    "name": "Áp tô mát 3pha 150A Mishu",
+    "unit": "cái",
+    "unitPrice": 2250000,
+    "notes": null
+  },
+  {
+    "name": "Áp tô mát 3pha 200A Mishu",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Áp tô mát 3pha 250A Mishu",
+    "unit": "cái",
+    "unitPrice": 2250000,
+    "notes": null
+  },
+  {
+    "name": "Áp tô mát 3pha 400A Mishu",
+    "unit": "cái",
+    "unitPrice": 2398000,
+    "notes": null
+  },
+  {
+    "name": "Áp tô mát 3pha 630A Mishu",
+    "unit": "cái",
+    "unitPrice": 9363636,
+    "notes": null
+  },
+  {
+    "name": "Áp tô mát 3pha 800A Mishu",
+    "unit": "cái",
+    "unitPrice": 15058550,
+    "notes": null
+  },
+  {
+    "name": "Áp tô mát 3pha 1000A Mishu",
+    "unit": "cái",
+    "unitPrice": 32180000,
+    "notes": null
+  },
+  {
+    "name": "Ampe kìm",
+    "unit": "cái",
+    "unitPrice": 950000,
+    "notes": null
+  },
+  {
+    "name": "áo quần bảo hộ",
+    "unit": "bộ",
+    "unitPrice": 205000,
+    "notes": null
+  },
+  {
+    "name": "áo quần mưa",
+    "unit": "bộ",
+    "unitPrice": 215000,
+    "notes": null
+  },
+  {
+    "name": "áo phao",
+    "unit": "cái",
+    "unitPrice": 110000,
+    "notes": null
+  },
+  {
+    "name": "Bét xịt hơi",
+    "unit": "cái",
+    "unitPrice": 80000,
+    "notes": null
+  },
+  {
+    "name": "bao PP",
+    "unit": "cái",
+    "unitPrice": 1700,
+    "notes": null
+  },
+  {
+    "name": "Bao PE",
+    "unit": "kg",
+    "unitPrice": 42000,
+    "notes": null
+  },
+  {
+    "name": "Bột đá",
+    "unit": "kg",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Bơm nước cao áp",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bơm nước 370w",
+    "unit": "cái",
+    "unitPrice": 600000,
+    "notes": null
+  },
+  {
+    "name": "Bơm nước 750w (ĐK)",
+    "unit": "cái",
+    "unitPrice": 900000,
+    "notes": null
+  },
+  {
+    "name": "Bơm nước Z100",
+    "unit": "cái",
+    "unitPrice": 900000,
+    "notes": null
+  },
+  {
+    "name": "Bơm nước 15kw",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bơm nước11kw",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bơm hỏa tiển 1.5HP",
+    "unit": "bộ",
+    "unitPrice": 2810000,
+    "notes": null
+  },
+  {
+    "name": "Bơm hồi lưu",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bơm nước + động cơ 7,5kw",
+    "unit": "bộ",
+    "unitPrice": 17500000,
+    "notes": null
+  },
+  {
+    "name": "Bơm nước + động cơ 5,5kw",
+    "unit": "bộ",
+    "unitPrice": 9775000,
+    "notes": null
+  },
+  {
+    "name": "Baxtup 200",
+    "unit": "cái",
+    "unitPrice": 570400,
+    "notes": null
+  },
+  {
+    "name": "Baxtup 230",
+    "unit": "cái",
+    "unitPrice": 836999,
+    "notes": null
+  },
+  {
+    "name": "Baxtup 270",
+    "unit": "cái",
+    "unitPrice": 992000,
+    "notes": null
+  },
+  {
+    "name": "Baxtup 300",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Baxtup bơm nước 45kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Baxtup bơm nước 22kw",
+    "unit": "cái",
+    "unitPrice": 1300000,
+    "notes": null
+  },
+  {
+    "name": "Baxtup bơm nước 11kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Baxtup bơm nước 7.5kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Baxtup bơm nước 5.5kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bạc bè 270",
+    "unit": "cái",
+    "unitPrice": 69999,
+    "notes": null
+  },
+  {
+    "name": "Bạc gang các loại",
+    "unit": "cái",
+    "unitPrice": 136364,
+    "notes": null
+  },
+  {
+    "name": "Bạc gang Ø55",
+    "unit": "cái",
+    "unitPrice": 136364,
+    "notes": null
+  },
+  {
+    "name": "Bạc gang Ø45",
+    "unit": "cái",
+    "unitPrice": 136364,
+    "notes": null
+  },
+  {
+    "name": "Bạc gang Ø40",
+    "unit": "cái",
+    "unitPrice": 136364,
+    "notes": null
+  },
+  {
+    "name": "Bạc gang Ø38",
+    "unit": "cái",
+    "unitPrice": 136364,
+    "notes": null
+  },
+  {
+    "name": "Bạc bơm nước",
+    "unit": "cái",
+    "unitPrice": 120000,
+    "notes": null
+  },
+  {
+    "name": "Bạc từ nước",
+    "unit": "cái",
+    "unitPrice": 150000,
+    "notes": null
+  },
+  {
+    "name": "Băng tải LB500",
+    "unit": "m",
+    "unitPrice": 361000,
+    "notes": null
+  },
+  {
+    "name": "Băng tải LB12",
+    "unit": "m",
+    "unitPrice": 78000,
+    "notes": null
+  },
+  {
+    "name": "Băng tải máy từ",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Băng tải nhật B500 11ly( cao su tấm)",
+    "unit": "m",
+    "unitPrice": 350000,
+    "notes": null
+  },
+  {
+    "name": "Băng tải nhật B700",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Băng tải nhật B1000",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Băng tải nhật B1200",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bánh lăn",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bạt xanh",
+    "unit": "m",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Bạt nilon trắng",
+    "unit": "kg",
+    "unitPrice": 44000,
+    "notes": null
+  },
+  {
+    "name": "Bảng điện",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bầu khoan Ø18",
+    "unit": "cái",
+    "unitPrice": 100000,
+    "notes": null
+  },
+  {
+    "name": "Bầu khoan Ø16",
+    "unit": "cái",
+    "unitPrice": 85000,
+    "notes": null
+  },
+  {
+    "name": "Bìa làm roăng",
+    "unit": "Tờ",
+    "unitPrice": 7000,
+    "notes": null
+  },
+  {
+    "name": "Bóng tròn 60W",
+    "unit": "cái",
+    "unitPrice": 14000,
+    "notes": null
+  },
+  {
+    "name": "Bóng compắc U35W",
+    "unit": "cái",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "Bóng led 30w",
+    "unit": "cái",
+    "unitPrice": 80000,
+    "notes": null
+  },
+  {
+    "name": "Bóng âm trần",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bóng 9w",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bóng cao áp 150w",
+    "unit": "cái",
+    "unitPrice": 1400000,
+    "notes": null
+  },
+  {
+    "name": "Bóng cao áp 100w",
+    "unit": "cái",
+    "unitPrice": 950000,
+    "notes": null
+  },
+  {
+    "name": "Bóng tuýp 1.2m",
+    "unit": "bộ",
+    "unitPrice": 160000,
+    "notes": null
+  },
+  {
+    "name": "Bộ điều khiển phản kháng tụ bù",
+    "unit": "cái",
+    "unitPrice": 2475000,
+    "notes": null
+  },
+  {
+    "name": "Bộ giảm tốc từ nước+mô tơ 1,1kw",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Biến trở 100K",
+    "unit": "cái",
+    "unitPrice": 20000,
+    "notes": null
+  },
+  {
+    "name": "Bảng điều chỉnh từ",
+    "unit": "bộ",
+    "unitPrice": 850000,
+    "notes": null
+  },
+  {
+    "name": "Bạt chổi TĐ dày 20 (tấm 12*120cm)",
+    "unit": "tấm",
+    "unitPrice": 350000,
+    "notes": null
+  },
+  {
+    "name": "Bạt lót tay biên bàn đãi",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bánh máy gặt",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bơm mỡ",
+    "unit": "cái",
+    "unitPrice": 180000,
+    "notes": null
+  },
+  {
+    "name": "Bơm tay",
+    "unit": "cái",
+    "unitPrice": 180000,
+    "notes": null
+  },
+  {
+    "name": "Bếp ga mini",
+    "unit": "cái",
+    "unitPrice": 250000,
+    "notes": null
+  },
+  {
+    "name": "Bình ga mini",
+    "unit": "cái",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Bét cắt",
+    "unit": "cái",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Bịt phi 110",
+    "unit": "cái",
+    "unitPrice": 12000,
+    "notes": null
+  },
+  {
+    "name": "Bịt phi 114",
+    "unit": "cái",
+    "unitPrice": 12000,
+    "notes": null
+  },
+  {
+    "name": "Bịt phi 49",
+    "unit": "cái",
+    "unitPrice": 5000,
+    "notes": null
+  },
+  {
+    "name": "Bịt phi 76",
+    "unit": "cái",
+    "unitPrice": 10000,
+    "notes": null
+  },
+  {
+    "name": "Bìa làm roăng",
+    "unit": "tấm",
+    "unitPrice": 10000,
+    "notes": null
+  },
+  {
+    "name": "Băng keo na nô",
+    "unit": "cuộn",
+    "unitPrice": 10000,
+    "notes": null
+  },
+  {
+    "name": "Băng keo na nô to",
+    "unit": "cuộn",
+    "unitPrice": 55000,
+    "notes": null
+  },
+  {
+    "name": "Búa tay",
+    "unit": "cái",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "Búa tạ",
+    "unit": "cái",
+    "unitPrice": 150000,
+    "notes": null
+  },
+  {
+    "name": "Búa đóng đinh",
+    "unit": "cái",
+    "unitPrice": 150000,
+    "notes": null
+  },
+  {
+    "name": "Bộ tuốc vít đóng tắt",
+    "unit": "bộ",
+    "unitPrice": 435000,
+    "notes": null
+  },
+  {
+    "name": "Bộ khoét lỗ phi 54",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bộ cắt ga gió",
+    "unit": "bộ",
+    "unitPrice": 250000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M6x20",
+    "unit": "bộ",
+    "unitPrice": 1500,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M6x20 đen",
+    "unit": "bộ",
+    "unitPrice": 780,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M6x30",
+    "unit": "bộ",
+    "unitPrice": 1200,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M6x30 đen",
+    "unit": "bộ",
+    "unitPrice": 930,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M6x40",
+    "unit": "bộ",
+    "unitPrice": 1500,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M6x40 đen",
+    "unit": "bộ",
+    "unitPrice": 980,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M6x50",
+    "unit": "bộ",
+    "unitPrice": 580,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M6x50 đen",
+    "unit": "bộ",
+    "unitPrice": 1000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M6x80",
+    "unit": "bộ",
+    "unitPrice": 1000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M6x80 đen",
+    "unit": "bộ",
+    "unitPrice": 1900,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M8x20",
+    "unit": "bộ",
+    "unitPrice": 650,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M8x20 đen",
+    "unit": "bộ",
+    "unitPrice": 1300,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M8x30",
+    "unit": "bộ",
+    "unitPrice": 2500,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M8x30 đen",
+    "unit": "bộ",
+    "unitPrice": 1500,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M8x40",
+    "unit": "bộ",
+    "unitPrice": 4000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M8x40 đen",
+    "unit": "bộ",
+    "unitPrice": 1800,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M8x50",
+    "unit": "bộ",
+    "unitPrice": 4500,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M8x50 đen",
+    "unit": "bộ",
+    "unitPrice": 1900,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M8x60",
+    "unit": "bộ",
+    "unitPrice": 1300,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M8x60 đen",
+    "unit": "bộ",
+    "unitPrice": 2200,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M10x30",
+    "unit": "bộ",
+    "unitPrice": 2800,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M10x30 đen",
+    "unit": "bộ",
+    "unitPrice": 2000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M10x40",
+    "unit": "bộ",
+    "unitPrice": 1600,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M10x40 đen",
+    "unit": "bộ",
+    "unitPrice": 2400,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M10x50",
+    "unit": "bộ",
+    "unitPrice": 4000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M10x50 đen",
+    "unit": "bộ",
+    "unitPrice": 2000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M10x60",
+    "unit": "bộ",
+    "unitPrice": 2200,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M10x60 đen",
+    "unit": "bộ",
+    "unitPrice": 3200,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M10x80",
+    "unit": "bộ",
+    "unitPrice": 3400,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M10x80 đen",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M12*20",
+    "unit": "bộ",
+    "unitPrice": 1800,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M12*20 đen",
+    "unit": "bộ",
+    "unitPrice": 3400,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M12*30",
+    "unit": "bộ",
+    "unitPrice": 2100,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M12*30 đen",
+    "unit": "bộ",
+    "unitPrice": 2100,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M12*40 đen",
+    "unit": "bộ",
+    "unitPrice": 2600,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M12x50",
+    "unit": "bộ",
+    "unitPrice": 5000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M12x50 đen",
+    "unit": "bộ",
+    "unitPrice": 3500,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M12x50 ngoại",
+    "unit": "bộ",
+    "unitPrice": 4400,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M12x60",
+    "unit": "bộ",
+    "unitPrice": 5500,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M12x60 đen",
+    "unit": "bộ",
+    "unitPrice": 3000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M12x80",
+    "unit": "bộ",
+    "unitPrice": 6000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M12x80 đen",
+    "unit": "bộ",
+    "unitPrice": 3700,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M12x800(ren suốt)",
+    "unit": "bộ",
+    "unitPrice": 20000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M12x800",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M12x100",
+    "unit": "bộ",
+    "unitPrice": 4500,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M12x100 nở",
+    "unit": "bộ",
+    "unitPrice": 7000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M12x100 đen",
+    "unit": "bộ",
+    "unitPrice": 6800,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M12x100 đen",
+    "unit": "bộ",
+    "unitPrice": 6800,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M12x250",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M14x10",
+    "unit": "bộ",
+    "unitPrice": 3500,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M14x30",
+    "unit": "bộ",
+    "unitPrice": 4000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M14x30 đen",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M14x50",
+    "unit": "bộ",
+    "unitPrice": 6000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M14x50 đen",
+    "unit": "bộ",
+    "unitPrice": 7000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M14x60",
+    "unit": "bộ",
+    "unitPrice": 5000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M14x60 đen",
+    "unit": "bộ",
+    "unitPrice": 7200,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M14x80",
+    "unit": "bộ",
+    "unitPrice": 7000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M14x80 đen",
+    "unit": "bộ",
+    "unitPrice": 8600,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M14x100",
+    "unit": "bộ",
+    "unitPrice": 5200,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M14x100 đen",
+    "unit": "bộ",
+    "unitPrice": 8800,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M14x150 đen",
+    "unit": "bộ",
+    "unitPrice": 14800,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M14x150",
+    "unit": "bộ",
+    "unitPrice": 8000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M14x200",
+    "unit": "bộ",
+    "unitPrice": 11000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M14x200 đen",
+    "unit": "bộ",
+    "unitPrice": 20400,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M14x250",
+    "unit": "bộ",
+    "unitPrice": 13000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M14x250 đen",
+    "unit": "bộ",
+    "unitPrice": 9000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M14x260",
+    "unit": "bộ",
+    "unitPrice": 12000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M14x300",
+    "unit": "bộ",
+    "unitPrice": 15000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M14x500",
+    "unit": "bộ",
+    "unitPrice": 20000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M14x500 đen",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M16x40",
+    "unit": "bộ",
+    "unitPrice": 4500,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M16x50",
+    "unit": "bộ",
+    "unitPrice": 4900,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M16x50 đen",
+    "unit": "bộ",
+    "unitPrice": 8000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M16x60",
+    "unit": "bộ",
+    "unitPrice": 5500,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M16x60 đen",
+    "unit": "bộ",
+    "unitPrice": 8100,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M16x80",
+    "unit": "bộ",
+    "unitPrice": 9000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M16x80 đen",
+    "unit": "bộ",
+    "unitPrice": 8200,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M16x100",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M16x250",
+    "unit": "bộ",
+    "unitPrice": 14500,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M16x250 đen",
+    "unit": "bộ",
+    "unitPrice": 32400,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M16x300",
+    "unit": "bộ",
+    "unitPrice": 15600,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M16x300 đen",
+    "unit": "bộ",
+    "unitPrice": 42000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M16x500",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M16x500 đen",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M18x200",
+    "unit": "bộ",
+    "unitPrice": 20000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M18x200 đen",
+    "unit": "bộ",
+    "unitPrice": 23000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M18x70",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M20x150 ren suốt mạ",
+    "unit": "bộ",
+    "unitPrice": 17000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M20x150",
+    "unit": "bộ",
+    "unitPrice": 19500,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M20x200",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M20x250",
+    "unit": "bộ",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M24x200",
+    "unit": "bộ",
+    "unitPrice": 36000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon M24x200 đen",
+    "unit": "bộ",
+    "unitPrice": 60000,
+    "notes": null
+  },
+  {
+    "name": "Bu lon giảm chấn 11kw",
+    "unit": "con",
+    "unitPrice": 43636,
+    "notes": null
+  },
+  {
+    "name": "Bu lon băng tảiTH",
+    "unit": "bộ",
+    "unitPrice": 11000,
+    "notes": null
+  },
+  {
+    "name": "Buly 100",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Buly 110",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Buly 140",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Buly 147",
+    "unit": "cái",
+    "unitPrice": 182000,
+    "notes": null
+  },
+  {
+    "name": "Buly 180",
+    "unit": "cái",
+    "unitPrice": 250000,
+    "notes": null
+  },
+  {
+    "name": "Buly 400",
+    "unit": "cái",
+    "unitPrice": 213000,
+    "notes": null
+  },
+  {
+    "name": "Buly 812",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Bút thử điện",
+    "unit": "cái",
+    "unitPrice": 16000,
+    "notes": null
+  },
+  {
+    "name": "Ban me 0-50",
+    "unit": "cái",
+    "unitPrice": 250000,
+    "notes": null
+  },
+  {
+    "name": "Ban me 50-100",
+    "unit": "cái",
+    "unitPrice": 250000,
+    "notes": null
+  },
+  {
+    "name": "Cà lê 6 (Mỹ)",
+    "unit": "cái",
+    "unitPrice": 20000,
+    "notes": null
+  },
+  {
+    "name": "Cà lê 8 (Mỹ)",
+    "unit": "cái",
+    "unitPrice": 16000,
+    "notes": null
+  },
+  {
+    "name": "Cà lê 10 (Mỹ)",
+    "unit": "cái",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Cà lê 12 (Mỹ)",
+    "unit": "cái",
+    "unitPrice": 18000,
+    "notes": null
+  },
+  {
+    "name": "Cà lê 13 (Mỹ)",
+    "unit": "cái",
+    "unitPrice": 22000,
+    "notes": null
+  },
+  {
+    "name": "Cà lê 14 (Mỹ)",
+    "unit": "cái",
+    "unitPrice": 23000,
+    "notes": null
+  },
+  {
+    "name": "Cà lê 16 (Mỹ)",
+    "unit": "cái",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "Cà lê 17 (Mỹ)",
+    "unit": "cái",
+    "unitPrice": 27000,
+    "notes": null
+  },
+  {
+    "name": "Cà lê 18 (Mỹ)",
+    "unit": "cái",
+    "unitPrice": 37000,
+    "notes": null
+  },
+  {
+    "name": "Cà lê 19 (Mỹ)",
+    "unit": "cái",
+    "unitPrice": 36000,
+    "notes": null
+  },
+  {
+    "name": "Cà lê 21 (Mỹ)",
+    "unit": "cái",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "Cà lê 22 (Mỹ)",
+    "unit": "cái",
+    "unitPrice": 42000,
+    "notes": null
+  },
+  {
+    "name": "Cà lê 24 (Mỹ)",
+    "unit": "cái",
+    "unitPrice": 40000,
+    "notes": null
+  },
+  {
+    "name": "Cà lê 27 (Mỹ)",
+    "unit": "cái",
+    "unitPrice": 55000,
+    "notes": null
+  },
+  {
+    "name": "Cà lê 55 (Mỹ)",
+    "unit": "cái",
+    "unitPrice": 515000,
+    "notes": null
+  },
+  {
+    "name": "K lê 8-27 bọc su",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Cảo thuỷ lực 3 chấu",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Cùm phi 49",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Cán típ",
+    "unit": "cái",
+    "unitPrice": 65000,
+    "notes": null
+  },
+  {
+    "name": "Cây ren phi 8",
+    "unit": "cây",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Cao su tấm",
+    "unit": "tấm",
+    "unitPrice": 32000,
+    "notes": null
+  },
+  {
+    "name": "Cao su van nước",
+    "unit": "cái",
+    "unitPrice": 800000,
+    "notes": null
+  },
+  {
+    "name": "Cao su giảm chấn 45kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Cao su non",
+    "unit": "cuộn",
+    "unitPrice": 3500,
+    "notes": null
+  },
+  {
+    "name": "Cầu dao 1 pha 20A Vinakip",
+    "unit": "cái",
+    "unitPrice": 45000,
+    "notes": null
+  },
+  {
+    "name": "Cầu dao 1 pha 25A Vinakip",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Cầu dao 3 pha 20A Vinakip",
+    "unit": "cái",
+    "unitPrice": 45000,
+    "notes": null
+  },
+  {
+    "name": "Cầu dao 3 pha 30A Vinakip",
+    "unit": "cái",
+    "unitPrice": 78000,
+    "notes": null
+  },
+  {
+    "name": "Cầu dao 3 pha 50A Vinakip",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Cầu dao 3 pha 60A Vinakip",
+    "unit": "cái",
+    "unitPrice": 105000,
+    "notes": null
+  },
+  {
+    "name": "Cầu dao 3 pha 100A Vinakip",
+    "unit": "cái",
+    "unitPrice": 320000,
+    "notes": null
+  },
+  {
+    "name": "Cầu dao 3 pha 150A Vinakip",
+    "unit": "cái",
+    "unitPrice": 320000,
+    "notes": null
+  },
+  {
+    "name": "Cầu dao 3 pha 250A Vinakip",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Cầu dao 3 pha 400A Vinakip",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Cầu chì tụ bù (cầu chì 5A)",
+    "unit": "cái",
+    "unitPrice": 9091,
+    "notes": null
+  },
+  {
+    "name": "Cầu chì tự rơi100A",
+    "unit": "cái",
+    "unitPrice": 4804500,
+    "notes": null
+  },
+  {
+    "name": "Cầu chì tự rơi FCO",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Cáp lụa Ø12",
+    "unit": "m",
+    "unitPrice": 28000,
+    "notes": null
+  },
+  {
+    "name": "Cáp lụa Ø4",
+    "unit": "m",
+    "unitPrice": 5000,
+    "notes": null
+  },
+  {
+    "name": "Cáp lụa Ø22",
+    "unit": "m",
+    "unitPrice": 85000,
+    "notes": null
+  },
+  {
+    "name": "Cáp thép Ø28",
+    "unit": "m",
+    "unitPrice": 300000,
+    "notes": null
+  },
+  {
+    "name": "Chổi dừa",
+    "unit": "cái",
+    "unitPrice": 60000,
+    "notes": null
+  },
+  {
+    "name": "Chổi đót",
+    "unit": "cái",
+    "unitPrice": 30000,
+    "notes": null
+  },
+  {
+    "name": "Chổi nhựa",
+    "unit": "cái",
+    "unitPrice": 30000,
+    "notes": null
+  },
+  {
+    "name": "Chổi sắt",
+    "unit": "cái",
+    "unitPrice": 15000,
+    "notes": null
+  },
+  {
+    "name": "Chổi đánh bóng nhựa",
+    "unit": "cái",
+    "unitPrice": 15000,
+    "notes": null
+  },
+  {
+    "name": "Chiết áp 3000w (Dimmer)",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Cu dê",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Cưa sắt",
+    "unit": "cái",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Cưa bích",
+    "unit": "cái",
+    "unitPrice": 170000,
+    "notes": null
+  },
+  {
+    "name": "Con lăn sơn",
+    "unit": "cái",
+    "unitPrice": 12000,
+    "notes": null
+  },
+  {
+    "name": "Con lăn băng tải",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Củi dương đốt lò",
+    "unit": "m3",
+    "unitPrice": 650000,
+    "notes": null
+  },
+  {
+    "name": "Can nhựa 30 lít",
+    "unit": "cái",
+    "unitPrice": 60000,
+    "notes": null
+  },
+  {
+    "name": "Cân tiểu li",
+    "unit": "cái",
+    "unitPrice": 800000,
+    "notes": null
+  },
+  {
+    "name": "Chén inox",
+    "unit": "cái",
+    "unitPrice": 15000,
+    "notes": null
+  },
+  {
+    "name": "Chén đồng",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Chốt cửa",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Co nhựa Ø21",
+    "unit": "cái",
+    "unitPrice": 3000,
+    "notes": null
+  },
+  {
+    "name": "Co nhựa Ø27",
+    "unit": "cái",
+    "unitPrice": 6000,
+    "notes": null
+  },
+  {
+    "name": "Co nhựa Ø34",
+    "unit": "cái",
+    "unitPrice": 7000,
+    "notes": null
+  },
+  {
+    "name": "Co nhựa Ø49",
+    "unit": "cái",
+    "unitPrice": 10000,
+    "notes": null
+  },
+  {
+    "name": "Co nhựa Ø76",
+    "unit": "cái",
+    "unitPrice": 20000,
+    "notes": null
+  },
+  {
+    "name": "Co nhựa Ø110",
+    "unit": "cái",
+    "unitPrice": 42000,
+    "notes": null
+  },
+  {
+    "name": "Co nhựa Ø114 QC",
+    "unit": "cái",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Co nhựa Ø140",
+    "unit": "cái",
+    "unitPrice": 65000,
+    "notes": null
+  },
+  {
+    "name": "Co nhựa Ø160",
+    "unit": "cái",
+    "unitPrice": 100000,
+    "notes": null
+  },
+  {
+    "name": "Co nhựa Ø168",
+    "unit": "cái",
+    "unitPrice": 125000,
+    "notes": null
+  },
+  {
+    "name": "Co nhựa Ø200",
+    "unit": "cái",
+    "unitPrice": 350000,
+    "notes": null
+  },
+  {
+    "name": "Công tắc tơ 22A-380V + Rơle nhiệt (16-22)A Mishubishi",
+    "unit": "Bộ",
+    "unitPrice": 1266080,
+    "notes": null
+  },
+  {
+    "name": "Công tắc tơ 25A-380V + Rơle nhiệt (16-25)A Mishubishi",
+    "unit": "Bộ",
+    "unitPrice": 1266080,
+    "notes": null
+  },
+  {
+    "name": "Công tắc tơ 35A-380V + Rơle nhiệt (16-35)A Mishubishi",
+    "unit": "Bộ",
+    "unitPrice": 1600000,
+    "notes": null
+  },
+  {
+    "name": "Công tắc tơ 40A-380V + Rơle nhiệt (28-40)A Mishubishi",
+    "unit": "Bộ",
+    "unitPrice": 1379900,
+    "notes": null
+  },
+  {
+    "name": "Công tắc tơ 50A-380V + Rơle nhiệt (34-50)A Mishubishi",
+    "unit": "Bộ",
+    "unitPrice": 2250000,
+    "notes": null
+  },
+  {
+    "name": "Công tắc tơ 60A-380V + Rơle nhiệt (34-60)A Mishubishi",
+    "unit": "Bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Công tắc tơ 65A-380V + Rơle nhiệt (40-65)A Mishubishi",
+    "unit": "Bộ",
+    "unitPrice": 2650000,
+    "notes": null
+  },
+  {
+    "name": "Công tắc tơ 80A-380V + Rơle nhiệt (50-80)A Mishubishi",
+    "unit": "Bộ",
+    "unitPrice": 3300000,
+    "notes": null
+  },
+  {
+    "name": "Công tắc tơ 85A-380V + Rơle nhiệt (50-85)A Mishubishi",
+    "unit": "Bộ",
+    "unitPrice": 3600000,
+    "notes": null
+  },
+  {
+    "name": "Công tắc tơ 100A-380V + Rơle nhiệt (50-100)A Mishubishi",
+    "unit": "Bộ",
+    "unitPrice": 2147999,
+    "notes": null
+  },
+  {
+    "name": "Công tắc tơ 125A-380V + Rơle nhiệt (50-125)A Mishubishi",
+    "unit": "Bộ",
+    "unitPrice": 4512800,
+    "notes": null
+  },
+  {
+    "name": "Công tắc tơ 130A-380V + Rơle nhiệt (50-130)A HQ",
+    "unit": "Bộ",
+    "unitPrice": 3850000,
+    "notes": null
+  },
+  {
+    "name": "Công tắc tơ 125A-380V  Mishubishi",
+    "unit": "cái",
+    "unitPrice": 3969999,
+    "notes": null
+  },
+  {
+    "name": "Công tắc tơ 80A-380V Mishubishi",
+    "unit": "cái",
+    "unitPrice": 2750000,
+    "notes": null
+  },
+  {
+    "name": "Công tắc tơ 65A-380V Mishubishi",
+    "unit": "cái",
+    "unitPrice": 1650000,
+    "notes": null
+  },
+  {
+    "name": "Công tắc tơ 50A-380V Mishubishi",
+    "unit": "cái",
+    "unitPrice": 1700000,
+    "notes": null
+  },
+  {
+    "name": "Công tắc tơ 40A-380V Mishubishi",
+    "unit": "cái",
+    "unitPrice": 896400,
+    "notes": null
+  },
+  {
+    "name": "Công tắc tơ 35A-380V Mishubishi",
+    "unit": "cái",
+    "unitPrice": 900000,
+    "notes": null
+  },
+  {
+    "name": "Công tắc tơ 22A-380V Mishubishi",
+    "unit": "cái",
+    "unitPrice": 810720,
+    "notes": null
+  },
+  {
+    "name": "Cuốc bàn",
+    "unit": "cái",
+    "unitPrice": 60000,
+    "notes": null
+  },
+  {
+    "name": "Cuốc răng",
+    "unit": "cái",
+    "unitPrice": 85000,
+    "notes": null
+  },
+  {
+    "name": "Cúp",
+    "unit": "cái",
+    "unitPrice": 90000,
+    "notes": null
+  },
+  {
+    "name": "Cân đồng hồ 100kg",
+    "unit": "cái",
+    "unitPrice": 1000000,
+    "notes": null
+  },
+  {
+    "name": "Cân đồng hồ5kg",
+    "unit": "cái",
+    "unitPrice": 185000,
+    "notes": null
+  },
+  {
+    "name": "Cước không số",
+    "unit": "kg",
+    "unitPrice": 100000,
+    "notes": null
+  },
+  {
+    "name": "Cước 1ly",
+    "unit": "kg",
+    "unitPrice": 10000,
+    "notes": null
+  },
+  {
+    "name": "Cước 5ly",
+    "unit": "kg",
+    "unitPrice": 10000,
+    "notes": null
+  },
+  {
+    "name": "Chốt cửa",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Chân gối 300",
+    "unit": "cái",
+    "unitPrice": 1477272.7142857143,
+    "notes": null
+  },
+  {
+    "name": "Chân gối 270",
+    "unit": "cái",
+    "unitPrice": 825000,
+    "notes": null
+  },
+  {
+    "name": "Chân gối 200 (giá 200ĐQ)",
+    "unit": "cái",
+    "unitPrice": 590909.1052631579,
+    "notes": null
+  },
+  {
+    "name": "Chân gối bơm 45kw (giá 45kw)",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Chân gối bơm 22kw (giá 22kw)",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Cánh bơm 200 dày",
+    "unit": "cái",
+    "unitPrice": 629999,
+    "notes": null
+  },
+  {
+    "name": "Cánh bơm 200 đõi quặng",
+    "unit": "cái",
+    "unitPrice": 300000,
+    "notes": null
+  },
+  {
+    "name": "Cánh bơm 230",
+    "unit": "cái",
+    "unitPrice": 975000,
+    "notes": null
+  },
+  {
+    "name": "Cánh bơm 270",
+    "unit": "cái",
+    "unitPrice": 1200000,
+    "notes": null
+  },
+  {
+    "name": "Cánh bơm 300 kín",
+    "unit": "cái",
+    "unitPrice": 1395000,
+    "notes": null
+  },
+  {
+    "name": "Cánh bơm 300 kín dày",
+    "unit": "cái",
+    "unitPrice": 1875000,
+    "notes": null
+  },
+  {
+    "name": "Cánh bơm 300 hở dày",
+    "unit": "cái",
+    "unitPrice": 1575000,
+    "notes": null
+  },
+  {
+    "name": "Cánh bơm 350 mạ thép hợp kim",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Cánh bơm 6 lổ",
+    "unit": "cái",
+    "unitPrice": 113636,
+    "notes": null
+  },
+  {
+    "name": "Cánh bơm nước 750w",
+    "unit": "cái",
+    "unitPrice": 18500,
+    "notes": null
+  },
+  {
+    "name": "Cánh bơm nước 370w",
+    "unit": "cái",
+    "unitPrice": 20000,
+    "notes": null
+  },
+  {
+    "name": "Cánh bơm nước 22kw",
+    "unit": "cái",
+    "unitPrice": 550000,
+    "notes": null
+  },
+  {
+    "name": "Cánh bơm nước 45kw",
+    "unit": "cái",
+    "unitPrice": 1818000,
+    "notes": null
+  },
+  {
+    "name": "Cánh bơm nước 11kw",
+    "unit": "cái",
+    "unitPrice": 1090909.09,
+    "notes": null
+  },
+  {
+    "name": "Cánh bơm nước 7,5kw",
+    "unit": "cái",
+    "unitPrice": 150000,
+    "notes": null
+  },
+  {
+    "name": "Cánh bơm nước 5,5kw",
+    "unit": "cái",
+    "unitPrice": 1395000,
+    "notes": null
+  },
+  {
+    "name": "Cánh quạt động cơ 30kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Cánh quạt động cơ 18,5kw",
+    "unit": "cái",
+    "unitPrice": 65000,
+    "notes": null
+  },
+  {
+    "name": "Cánh quạt động cơ 18kw",
+    "unit": "cái",
+    "unitPrice": 65000,
+    "notes": null
+  },
+  {
+    "name": "Cánh quạt động cơ 15kw",
+    "unit": "cái",
+    "unitPrice": 65000,
+    "notes": null
+  },
+  {
+    "name": "Cánh quạt động cơ 11kw",
+    "unit": "cái",
+    "unitPrice": 55000,
+    "notes": null
+  },
+  {
+    "name": "Cánh quạt động cơ 7,5kw",
+    "unit": "cái",
+    "unitPrice": 55000,
+    "notes": null
+  },
+  {
+    "name": "Cánh quạt động cơ 4,5kw",
+    "unit": "cái",
+    "unitPrice": 45000,
+    "notes": null
+  },
+  {
+    "name": "Cánh quạt động cơ 4kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Cánh quạt động cơ 1,1kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Cánh quạt mát",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Cầu điện đấu động cơ",
+    "unit": "cái",
+    "unitPrice": 55000,
+    "notes": null
+  },
+  {
+    "name": "Các đăng giảm dật phi 32",
+    "unit": "cái",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Các đăng giảm dật phi 38",
+    "unit": "cái",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Các đăng giảm dật phi 42",
+    "unit": "cái",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Các đăng giảm dật",
+    "unit": "cái",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Các đăng 300",
+    "unit": "cái",
+    "unitPrice": 113636.36764705883,
+    "notes": null
+  },
+  {
+    "name": "Các đăng bơm nước 11kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Các đăng bơm nước 7.5kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Các đăng bơm nước 45kw",
+    "unit": "cái",
+    "unitPrice": 600000,
+    "notes": null
+  },
+  {
+    "name": "Cầu động cơ 5.5kw",
+    "unit": "cái",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Cầu động cơ 7.5kw",
+    "unit": "cái",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Cầu động cơ 11kw",
+    "unit": "cái",
+    "unitPrice": 100000,
+    "notes": null
+  },
+  {
+    "name": "Cầu động cơ 15kw",
+    "unit": "cái",
+    "unitPrice": 100000,
+    "notes": null
+  },
+  {
+    "name": "Cầu động cơ 18kw",
+    "unit": "cái",
+    "unitPrice": 100000,
+    "notes": null
+  },
+  {
+    "name": "Dày",
+    "unit": "đôi",
+    "unitPrice": 58000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa A36",
+    "unit": "sợi",
+    "unitPrice": 19000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa A40",
+    "unit": "sợi",
+    "unitPrice": 21500,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa A43",
+    "unit": "sợi",
+    "unitPrice": 23000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa A44",
+    "unit": "sợi",
+    "unitPrice": 23500,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa A45",
+    "unit": "sợi",
+    "unitPrice": 24000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa A46",
+    "unit": "sợi",
+    "unitPrice": 24500,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa A47",
+    "unit": "sợi",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa A55",
+    "unit": "sợi",
+    "unitPrice": 29500,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa A67",
+    "unit": "sợi",
+    "unitPrice": 35500,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa A68",
+    "unit": "sợi",
+    "unitPrice": 36000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa A70",
+    "unit": "sợi",
+    "unitPrice": 37500,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa A75",
+    "unit": "sợi",
+    "unitPrice": 40000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa A79",
+    "unit": "sợi",
+    "unitPrice": 42000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B37",
+    "unit": "sợi",
+    "unitPrice": 27000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B43",
+    "unit": "sợi",
+    "unitPrice": 31500,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B44",
+    "unit": "sợi",
+    "unitPrice": 32500,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B45",
+    "unit": "sợi",
+    "unitPrice": 33000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B46",
+    "unit": "sợi",
+    "unitPrice": 33500,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B48",
+    "unit": "sợi",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B51",
+    "unit": "sợi",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B53",
+    "unit": "sợi",
+    "unitPrice": 39000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B54",
+    "unit": "sợi",
+    "unitPrice": 39500,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B57",
+    "unit": "sợi",
+    "unitPrice": 42000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B59",
+    "unit": "sợi",
+    "unitPrice": 43000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B60",
+    "unit": "sợi",
+    "unitPrice": 44000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B61",
+    "unit": "sợi",
+    "unitPrice": 45000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B62",
+    "unit": "sợi",
+    "unitPrice": 45000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B63",
+    "unit": "sợi",
+    "unitPrice": 46000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B64",
+    "unit": "sợi",
+    "unitPrice": 47000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B65",
+    "unit": "sợi",
+    "unitPrice": 47000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B66",
+    "unit": "sợi",
+    "unitPrice": 48500,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B67",
+    "unit": "sợi",
+    "unitPrice": 49000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B68",
+    "unit": "sợi",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B69",
+    "unit": "sợi",
+    "unitPrice": 50500,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B70",
+    "unit": "sợi",
+    "unitPrice": 51000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B71",
+    "unit": "sợi",
+    "unitPrice": 52000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B72",
+    "unit": "sợi",
+    "unitPrice": 53000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B73 TH",
+    "unit": "sợi",
+    "unitPrice": 65000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B73 QC",
+    "unit": "sợi",
+    "unitPrice": 65000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B74",
+    "unit": "sợi",
+    "unitPrice": 54000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B76",
+    "unit": "sợi",
+    "unitPrice": 55000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B79",
+    "unit": "sợi",
+    "unitPrice": 58000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B80",
+    "unit": "sợi",
+    "unitPrice": 59000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B81",
+    "unit": "sợi",
+    "unitPrice": 59500,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B84",
+    "unit": "sợi",
+    "unitPrice": 61000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B85",
+    "unit": "sợi",
+    "unitPrice": 62000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B86",
+    "unit": "sợi",
+    "unitPrice": 70000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B87",
+    "unit": "sợi",
+    "unitPrice": 64000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B89",
+    "unit": "sợi",
+    "unitPrice": 65000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B90",
+    "unit": "sợi",
+    "unitPrice": 45000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B94",
+    "unit": "sợi",
+    "unitPrice": 69000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B97",
+    "unit": "sợi",
+    "unitPrice": 71000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B98",
+    "unit": "sợi",
+    "unitPrice": 71500,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B108",
+    "unit": "sợi",
+    "unitPrice": 79000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B110",
+    "unit": "sợi",
+    "unitPrice": 81000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa B125",
+    "unit": "sợi",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa SPB2800",
+    "unit": "sợi",
+    "unitPrice": 298000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa C51",
+    "unit": "sợi",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Dây cu roa C70",
+    "unit": "sợi",
+    "unitPrice": 87500,
+    "notes": null
+  },
+  {
+    "name": "Dây cao su làm roăng",
+    "unit": "m",
+    "unitPrice": 18000,
+    "notes": null
+  },
+  {
+    "name": "Dây dù néo tàu Ø18",
+    "unit": "kg",
+    "unitPrice": 68000,
+    "notes": null
+  },
+  {
+    "name": "Dây dù Liên Xô 2,5ly",
+    "unit": "kg",
+    "unitPrice": 68000,
+    "notes": null
+  },
+  {
+    "name": "Dây thừng",
+    "unit": "kg",
+    "unitPrice": 110000,
+    "notes": null
+  },
+  {
+    "name": "Dây điện 2x0,75",
+    "unit": "m",
+    "unitPrice": 7500,
+    "notes": null
+  },
+  {
+    "name": "Dây điện 2x1,5",
+    "unit": "m",
+    "unitPrice": 9000,
+    "notes": null
+  },
+  {
+    "name": "Dây điện 2x2,5",
+    "unit": "m",
+    "unitPrice": 14500,
+    "notes": null
+  },
+  {
+    "name": "Dây điện 2x16",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Dây điện 2x4",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Dây điện 1 lõi đồng 3mm2",
+    "unit": "m",
+    "unitPrice": 8000,
+    "notes": null
+  },
+  {
+    "name": "Dây điện 1 lõi máy TĐ",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Dây cao áp 0,2mm",
+    "unit": "kg",
+    "unitPrice": 1500000,
+    "notes": null
+  },
+  {
+    "name": "Dây đồng 2x10mm2",
+    "unit": "m",
+    "unitPrice": 45000,
+    "notes": null
+  },
+  {
+    "name": "Dây cáp nhôm AL/XLPE ABC 2*16",
+    "unit": "kg",
+    "unitPrice": 12000,
+    "notes": null
+  },
+  {
+    "name": "Dây đồng 3*0,75",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Dây đồng 3*2.5",
+    "unit": "m",
+    "unitPrice": 15000,
+    "notes": null
+  },
+  {
+    "name": "Dây đồng 3*6+1*4",
+    "unit": "m",
+    "unitPrice": 48500,
+    "notes": null
+  },
+  {
+    "name": "Dây nhôm 1*35(AV 35)",
+    "unit": "m",
+    "unitPrice": 10500,
+    "notes": null
+  },
+  {
+    "name": "Dây đồng 3*1,5",
+    "unit": "m",
+    "unitPrice": 17000,
+    "notes": null
+  },
+  {
+    "name": "Dây đồng (3x4+1x2,5)mm2",
+    "unit": "m",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "Dây đồng 3x70+1x35",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Dây đồng 3x25+1x6",
+    "unit": "m",
+    "unitPrice": 250000,
+    "notes": null
+  },
+  {
+    "name": "Dây đồng 3x25+1x16",
+    "unit": "m",
+    "unitPrice": 170000,
+    "notes": null
+  },
+  {
+    "name": "Dây đồng 3x20+1x70",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Dây đồng 3x10+1x6",
+    "unit": "m",
+    "unitPrice": 68500,
+    "notes": null
+  },
+  {
+    "name": "Dây đồng 3x16+1x10",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Dây đồng 3x120+1x95",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Dây đồng CVX 185mm2",
+    "unit": "m",
+    "unitPrice": 480000,
+    "notes": null
+  },
+  {
+    "name": "Dây A16",
+    "unit": "m",
+    "unitPrice": 11000,
+    "notes": null
+  },
+  {
+    "name": "Dây nhôm AXV 3*95",
+    "unit": "m",
+    "unitPrice": 85500,
+    "notes": null
+  },
+  {
+    "name": "Dây nhôm AXV4*35 NM",
+    "unit": "m",
+    "unitPrice": 70000,
+    "notes": null
+  },
+  {
+    "name": "Dây nhôm AXV 4*95 NM",
+    "unit": "m",
+    "unitPrice": 160000,
+    "notes": null
+  },
+  {
+    "name": "Dây nhôm AV70",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Dây nhôm AV 1*240",
+    "unit": "m",
+    "unitPrice": 61000,
+    "notes": null
+  },
+  {
+    "name": "Dây bơm hơi",
+    "unit": "bộ",
+    "unitPrice": 120000,
+    "notes": null
+  },
+  {
+    "name": "Dây cắt  hơi",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Dây hàn",
+    "unit": "m",
+    "unitPrice": 70000,
+    "notes": null
+  },
+  {
+    "name": "Dây tời",
+    "unit": "kg",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Dây buộc nilon",
+    "unit": "kg",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Dây rút động cơ",
+    "unit": "gói",
+    "unitPrice": 55000,
+    "notes": null
+  },
+  {
+    "name": "Dây lác đen",
+    "unit": "kg",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Dây amiăng tẩm chì",
+    "unit": "kg",
+    "unitPrice": 66000,
+    "notes": null
+  },
+  {
+    "name": "Dương cây",
+    "unit": "cây",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Dũa bán nguyệt",
+    "unit": "cái",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Dũa tam giác",
+    "unit": "cái",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Dũa dẹt",
+    "unit": "cái",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Dao rọc giấy",
+    "unit": "cái",
+    "unitPrice": 12000,
+    "notes": null
+  },
+  {
+    "name": "Dầu diezen",
+    "unit": "lít",
+    "unitPrice": 21560,
+    "notes": null
+  },
+  {
+    "name": "Dầu cầu HD90",
+    "unit": "lít",
+    "unitPrice": 33000,
+    "notes": null
+  },
+  {
+    "name": "Dầu shell động cơ",
+    "unit": "lít",
+    "unitPrice": 120000,
+    "notes": null
+  },
+  {
+    "name": "Dầu nhờn HD50",
+    "unit": "lít",
+    "unitPrice": 55100,
+    "notes": null
+  },
+  {
+    "name": "Dầu nhờn HD50 tốt",
+    "unit": "lít",
+    "unitPrice": 59090,
+    "notes": null
+  },
+  {
+    "name": "Dầu nhờn HD90 loãng",
+    "unit": "lít",
+    "unitPrice": 71591,
+    "notes": null
+  },
+  {
+    "name": "Dầu thủy lực",
+    "unit": "lít",
+    "unitPrice": 56000,
+    "notes": null
+  },
+  {
+    "name": "Dĩa chóng mòn 300",
+    "unit": "cái",
+    "unitPrice": 945000,
+    "notes": null
+  },
+  {
+    "name": "Dĩa chóng mòn 200 đõi quặng",
+    "unit": "cái",
+    "unitPrice": 412500,
+    "notes": null
+  },
+  {
+    "name": "Dĩa chóng mòn 230",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Dĩa chóng mòn 270",
+    "unit": "cái",
+    "unitPrice": 509999,
+    "notes": null
+  },
+  {
+    "name": "Đầu ra 200",
+    "unit": "cái",
+    "unitPrice": 155800,
+    "notes": null
+  },
+  {
+    "name": "Đầu ra 230",
+    "unit": "cái",
+    "unitPrice": 348500,
+    "notes": null
+  },
+  {
+    "name": "Đầu ra 270",
+    "unit": "cái",
+    "unitPrice": 369000,
+    "notes": null
+  },
+  {
+    "name": "Đầu nối vuông 300",
+    "unit": "cái",
+    "unitPrice": 368999,
+    "notes": null
+  },
+  {
+    "name": "Đầu nối tròn 300",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Đầu ra công 300",
+    "unit": "cái",
+    "unitPrice": 1722000,
+    "notes": null
+  },
+  {
+    "name": "Đá cắt Ø100",
+    "unit": "viên",
+    "unitPrice": 10000,
+    "notes": null
+  },
+  {
+    "name": "Đá cắt Ø350 HD",
+    "unit": "viên",
+    "unitPrice": 40000,
+    "notes": null
+  },
+  {
+    "name": "Đá cắt bê tông",
+    "unit": "viên",
+    "unitPrice": 80000,
+    "notes": null
+  },
+  {
+    "name": "Đá mài Ø100",
+    "unit": "viên",
+    "unitPrice": 13000,
+    "notes": null
+  },
+  {
+    "name": "Đá mài 2 đá Ø200",
+    "unit": "viên",
+    "unitPrice": 45000,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt đồng phi 6",
+    "unit": "cái",
+    "unitPrice": 12000,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt đồng phi 8",
+    "unit": "cái",
+    "unitPrice": 12000,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt đồng 6-6",
+    "unit": "cái",
+    "unitPrice": 2000,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt đồng 6-8",
+    "unit": "cái",
+    "unitPrice": 3000,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt đồng 10-4",
+    "unit": "cái",
+    "unitPrice": 2000,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt đồng 10-6",
+    "unit": "cái",
+    "unitPrice": 4000,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt đồng 10-8",
+    "unit": "cái",
+    "unitPrice": 3000,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt đồng 16-8",
+    "unit": "cái",
+    "unitPrice": 3500,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt đồng 16-10",
+    "unit": "cái",
+    "unitPrice": 4000,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt đồng 25",
+    "unit": "cái",
+    "unitPrice": 5500,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt đồng 25-8",
+    "unit": "cái",
+    "unitPrice": 5500,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt đồng 35-8",
+    "unit": "cái",
+    "unitPrice": 7000,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt đồng 35",
+    "unit": "cái",
+    "unitPrice": 8000,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt đồng 70 NM",
+    "unit": "cái",
+    "unitPrice": 8000,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt đồng 70",
+    "unit": "cái",
+    "unitPrice": 10000,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt đồng 90",
+    "unit": "cái",
+    "unitPrice": 15000,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt đồng 95",
+    "unit": "cái",
+    "unitPrice": 20000,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt đồng120-12",
+    "unit": "cái",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt đồng 150",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt đồng 185-12",
+    "unit": "cái",
+    "unitPrice": 55000,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt đồng 240",
+    "unit": "cái",
+    "unitPrice": 65000,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt nhôm đồng 20",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt nhôm đồng 25 NM",
+    "unit": "cái",
+    "unitPrice": 7000,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt nhôm đồng 35 NM",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt nhôm đồng 70 NM",
+    "unit": "cái",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt nhôm đồng 95-10 NM",
+    "unit": "cái",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt nhôm đồng 120",
+    "unit": "cái",
+    "unitPrice": 24000,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt nhôm đồng 180",
+    "unit": "cái",
+    "unitPrice": 23100,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt nhôm đồng 185-12",
+    "unit": "cái",
+    "unitPrice": 23100,
+    "notes": null
+  },
+  {
+    "name": "Đầu cốt nhôm đồng 240 NM",
+    "unit": "cái",
+    "unitPrice": 45000,
+    "notes": null
+  },
+  {
+    "name": "Đầu khoan",
+    "unit": "cái",
+    "unitPrice": 80000,
+    "notes": null
+  },
+  {
+    "name": "Đầu máy mơn",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Đồng hồ micro",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Đồng hồ ampekim",
+    "unit": "cái",
+    "unitPrice": 600000,
+    "notes": null
+  },
+  {
+    "name": "Đồng hồ ampe 100/5A",
+    "unit": "cái",
+    "unitPrice": 150000,
+    "notes": null
+  },
+  {
+    "name": "Đồng hồ ga",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Đồng hồ gió",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Đèn pin",
+    "unit": "cái",
+    "unitPrice": 60000,
+    "notes": null
+  },
+  {
+    "name": "Đèn đội",
+    "unit": "cái",
+    "unitPrice": 150000,
+    "notes": null
+  },
+  {
+    "name": "Đinh vít 1 phân",
+    "unit": "kg",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Đinh vít 4 phân",
+    "unit": "kg",
+    "unitPrice": 78000,
+    "notes": null
+  },
+  {
+    "name": "Đinh bắn tôn",
+    "unit": "kg",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Đinh 5 phân",
+    "unit": "kg",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Đinh 7 phân",
+    "unit": "kg",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Đinh 10 phân",
+    "unit": "kg",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Đi ốt sấy điện từ",
+    "unit": "cái",
+    "unitPrice": 200000,
+    "notes": null
+  },
+  {
+    "name": "Đuôi điện",
+    "unit": "cái",
+    "unitPrice": 7000,
+    "notes": null
+  },
+  {
+    "name": "Điện trở nhiệt",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Động cơ 45kw",
+    "unit": "cái",
+    "unitPrice": 38639000,
+    "notes": null
+  },
+  {
+    "name": "Động cơ 37kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Động cơ 30kw 1500v/p chân đế",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Động cơ 22kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Động cơ 18,5kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Động cơ 15kw",
+    "unit": "cái",
+    "unitPrice": 14149000,
+    "notes": null
+  },
+  {
+    "name": "Động cơ 15kw 1500v/p mặt bích",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Động cơ 11kw 1500v/p mặt bích",
+    "unit": "cái",
+    "unitPrice": 10566000,
+    "notes": null
+  },
+  {
+    "name": "Động cơ 11kw 1500v/p chân đế",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Động cơ 7,5kw 3000v/p chân đế",
+    "unit": "cái",
+    "unitPrice": 7250250,
+    "notes": null
+  },
+  {
+    "name": "Động cơ 7,5kw 3000v/p mặt bích",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Động cơ 5,5kw 3000v/p",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Động cơ 4,5kw 1500v/p mặt bích",
+    "unit": "cái",
+    "unitPrice": 5462000,
+    "notes": null
+  },
+  {
+    "name": "Động cơ 4 kw 1500v/p mặt bích",
+    "unit": "cái",
+    "unitPrice": 3720000,
+    "notes": null
+  },
+  {
+    "name": "Động cơ 3kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Động cơ 2,2kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Động cơ 1,1kw",
+    "unit": "cái",
+    "unitPrice": 2237000,
+    "notes": null
+  },
+  {
+    "name": "Động cơ 1.1kw 1.450v/p",
+    "unit": "cái",
+    "unitPrice": 1970000,
+    "notes": null
+  },
+  {
+    "name": "Động cơ giảm tốc 1.5kw",
+    "unit": "cái",
+    "unitPrice": 5800000,
+    "notes": null
+  },
+  {
+    "name": "Đầu bắn vít",
+    "unit": "cái",
+    "unitPrice": 15000,
+    "notes": null
+  },
+  {
+    "name": "Đầu rửa xe",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Đầu bơm hơi",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Đót quét vôi",
+    "unit": "kg",
+    "unitPrice": 80000,
+    "notes": null
+  },
+  {
+    "name": "Đế nổi",
+    "unit": "cái",
+    "unitPrice": 8000,
+    "notes": null
+  },
+  {
+    "name": "Đế âm",
+    "unit": "kg",
+    "unitPrice": 5000,
+    "notes": null
+  },
+  {
+    "name": "Đế đơn",
+    "unit": "kg",
+    "unitPrice": 3000,
+    "notes": null
+  },
+  {
+    "name": "Đế đôi",
+    "unit": "kg",
+    "unitPrice": 10000,
+    "notes": null
+  },
+  {
+    "name": "Ê cu 10",
+    "unit": "cái",
+    "unitPrice": 1200,
+    "notes": null
+  },
+  {
+    "name": "Ê cu 12",
+    "unit": "cái",
+    "unitPrice": 1800,
+    "notes": null
+  },
+  {
+    "name": "Ê cu 14",
+    "unit": "cái",
+    "unitPrice": 2000,
+    "notes": null
+  },
+  {
+    "name": "Ê cu 16",
+    "unit": "cái",
+    "unitPrice": 2200,
+    "notes": null
+  },
+  {
+    "name": "Ê cu 18",
+    "unit": "cái",
+    "unitPrice": 3000,
+    "notes": null
+  },
+  {
+    "name": "Ê cu 25",
+    "unit": "cái",
+    "unitPrice": 14000,
+    "notes": null
+  },
+  {
+    "name": "Ê cu 27",
+    "unit": "cái",
+    "unitPrice": 16000,
+    "notes": null
+  },
+  {
+    "name": "Giấy nhám Nhật",
+    "unit": "m",
+    "unitPrice": 15000,
+    "notes": null
+  },
+  {
+    "name": "Giấy nhám mịn",
+    "unit": "tờ",
+    "unitPrice": 2000,
+    "notes": null
+  },
+  {
+    "name": "Giảm chấn đen Ø200",
+    "unit": "cái",
+    "unitPrice": 80000,
+    "notes": null
+  },
+  {
+    "name": "Giảm chấn cao su đen Ø300",
+    "unit": "cái",
+    "unitPrice": 140000,
+    "notes": null
+  },
+  {
+    "name": "Giảm chấn 3 cạnh 230(cao su giảm chấn 3 cạnh 230",
+    "unit": "cái",
+    "unitPrice": 55000,
+    "notes": null
+  },
+  {
+    "name": "Giảm chấn vàng Ø60(Bơm nước)",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Giảm chấn 11kw",
+    "unit": "cái",
+    "unitPrice": 3200,
+    "notes": null
+  },
+  {
+    "name": "Giảm chấn bơm nước 45kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ga",
+    "unit": "bình",
+    "unitPrice": 550000,
+    "notes": null
+  },
+  {
+    "name": "giá bơm nước 7,5 kw",
+    "unit": "cái",
+    "unitPrice": 204546,
+    "notes": null
+  },
+  {
+    "name": "Gối bàn đãi",
+    "unit": "bộ",
+    "unitPrice": 37000,
+    "notes": null
+  },
+  {
+    "name": "Gối bơm 270",
+    "unit": "cái",
+    "unitPrice": 227272,
+    "notes": null
+  },
+  {
+    "name": "Gối bơm 300",
+    "unit": "cái",
+    "unitPrice": 1772727.27,
+    "notes": null
+  },
+  {
+    "name": "Gối bơm 230",
+    "unit": "cái",
+    "unitPrice": 400000,
+    "notes": null
+  },
+  {
+    "name": "Gối bơm200",
+    "unit": "cái",
+    "unitPrice": 341000,
+    "notes": null
+  },
+  {
+    "name": "Gối bơm nước 45kw",
+    "unit": "cái",
+    "unitPrice": 1363000,
+    "notes": null
+  },
+  {
+    "name": "Gối bơm nước 11kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Gối bơm nước 7,5kw",
+    "unit": "cái",
+    "unitPrice": 227273,
+    "notes": null
+  },
+  {
+    "name": "Gối bơm nước 5,5kw",
+    "unit": "cái",
+    "unitPrice": 409091,
+    "notes": null
+  },
+  {
+    "name": "Gỗ bạch đàn",
+    "unit": "cây",
+    "unitPrice": 55000,
+    "notes": null
+  },
+  {
+    "name": "Găng tay vải",
+    "unit": "đôi",
+    "unitPrice": 7000,
+    "notes": null
+  },
+  {
+    "name": "Găng tay cao su",
+    "unit": "đôi",
+    "unitPrice": 19000,
+    "notes": null
+  },
+  {
+    "name": "Găng tay len",
+    "unit": "đôi",
+    "unitPrice": 5200,
+    "notes": null
+  },
+  {
+    "name": "Hộp điều khiển tốc độ",
+    "unit": "cái",
+    "unitPrice": 1500000,
+    "notes": null
+  },
+  {
+    "name": "Hộp điện động cơ 5,5kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Hộp điện động cơ 11kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "hộp nút nhấn ON/OFF",
+    "unit": "cái",
+    "unitPrice": 33000,
+    "notes": null
+  },
+  {
+    "name": "Hạt công tắc",
+    "unit": "cái",
+    "unitPrice": 10000,
+    "notes": null
+  },
+  {
+    "name": "Keo 502 nhỏ",
+    "unit": "hộp",
+    "unitPrice": 6000,
+    "notes": null
+  },
+  {
+    "name": "Keo con chó",
+    "unit": "hộp",
+    "unitPrice": 40000,
+    "notes": null
+  },
+  {
+    "name": "Keo dán roăng",
+    "unit": "hộp",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Keo AB",
+    "unit": "hộp",
+    "unitPrice": 42000,
+    "notes": null
+  },
+  {
+    "name": "Keo PVC",
+    "unit": "ống",
+    "unitPrice": 8000,
+    "notes": null
+  },
+  {
+    "name": "Keo PVC to",
+    "unit": "ống",
+    "unitPrice": 45000,
+    "notes": null
+  },
+  {
+    "name": "Keo RP 7",
+    "unit": "chai",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Keo silicon",
+    "unit": "ống",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Kẹp cáp đồng nhôm 70",
+    "unit": "cái",
+    "unitPrice": 29700,
+    "notes": null
+  },
+  {
+    "name": "Kẹp cáp đồng nhôm 95",
+    "unit": "cái",
+    "unitPrice": 26000,
+    "notes": null
+  },
+  {
+    "name": "Kẹp cáp đồng nhôm 150",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Kẹp cáp nhôm 95",
+    "unit": "cái",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "Kẹp cáp nhôm 120",
+    "unit": "cái",
+    "unitPrice": 29700,
+    "notes": null
+  },
+  {
+    "name": "Kẹp cáp nhôm 150",
+    "unit": "cái",
+    "unitPrice": 55000,
+    "notes": null
+  },
+  {
+    "name": "Kẹp cáp nhôm 240",
+    "unit": "cái",
+    "unitPrice": 30000,
+    "notes": null
+  },
+  {
+    "name": "Kẹp nối băng tải",
+    "unit": "cặp",
+    "unitPrice": 60000,
+    "notes": null
+  },
+  {
+    "name": "Kìm điện",
+    "unit": "cái",
+    "unitPrice": 45000,
+    "notes": null
+  },
+  {
+    "name": "Kìm điện (loại tốt)",
+    "unit": "cái",
+    "unitPrice": 78000,
+    "notes": null
+  },
+  {
+    "name": "Kìm bấm",
+    "unit": "cái",
+    "unitPrice": 70000,
+    "notes": null
+  },
+  {
+    "name": "Kìm bấm thủy lực",
+    "unit": "cái",
+    "unitPrice": 980000,
+    "notes": null
+  },
+  {
+    "name": "Kìm bấm đầu cos",
+    "unit": "cái",
+    "unitPrice": 570000,
+    "notes": null
+  },
+  {
+    "name": "Kìm chết",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Kìm hàn",
+    "unit": "cái",
+    "unitPrice": 70000,
+    "notes": null
+  },
+  {
+    "name": "Kìm cộng lực 300mm",
+    "unit": "cái",
+    "unitPrice": 70000,
+    "notes": null
+  },
+  {
+    "name": "Kìm cộng lực 600mm",
+    "unit": "cái",
+    "unitPrice": 380000,
+    "notes": null
+  },
+  {
+    "name": "Kìm cộng lực to",
+    "unit": "cái",
+    "unitPrice": 460000,
+    "notes": null
+  },
+  {
+    "name": "Kìm mỏ quạ",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Kìm mở phe trái",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Kìm mở phe phải",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Kìm nhọn",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Kéo",
+    "unit": "cái",
+    "unitPrice": 40000,
+    "notes": null
+  },
+  {
+    "name": "Kéo cắt sắt",
+    "unit": "cái",
+    "unitPrice": 350000,
+    "notes": null
+  },
+  {
+    "name": "Kéo tỉa cây",
+    "unit": "cái",
+    "unitPrice": 120000,
+    "notes": null
+  },
+  {
+    "name": "Ke bắn tôn",
+    "unit": "gói",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Kính bảo hộ",
+    "unit": "cái",
+    "unitPrice": 13000,
+    "notes": null
+  },
+  {
+    "name": "Kính hàn",
+    "unit": "tấm",
+    "unitPrice": 15000,
+    "notes": null
+  },
+  {
+    "name": "Kích 20 tấn",
+    "unit": "Cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Khoá cáp Ø4",
+    "unit": "cái",
+    "unitPrice": 4000,
+    "notes": null
+  },
+  {
+    "name": "Khoá cáp Ø12",
+    "unit": "cái",
+    "unitPrice": 12000,
+    "notes": null
+  },
+  {
+    "name": "Khoá cáp Ø15",
+    "unit": "cái",
+    "unitPrice": 18000,
+    "notes": null
+  },
+  {
+    "name": "Khoá cáp Ø 22",
+    "unit": "cái",
+    "unitPrice": 38000,
+    "notes": null
+  },
+  {
+    "name": "Khoá cáp Ø28",
+    "unit": "cái",
+    "unitPrice": 100000,
+    "notes": null
+  },
+  {
+    "name": "Khoá việt tiệp",
+    "unit": "cái",
+    "unitPrice": 55000,
+    "notes": null
+  },
+  {
+    "name": "Khóa xịt hơi",
+    "unit": "cái",
+    "unitPrice": 8000,
+    "notes": null
+  },
+  {
+    "name": "Khoá van nhựa Ø21",
+    "unit": "cái",
+    "unitPrice": 20000,
+    "notes": null
+  },
+  {
+    "name": "Khoá van nhựa Ø27 QC",
+    "unit": "cái",
+    "unitPrice": 27000,
+    "notes": null
+  },
+  {
+    "name": "Khoá đồng Ø27",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Khoá van nhựa Ø34",
+    "unit": "cái",
+    "unitPrice": 55000,
+    "notes": null
+  },
+  {
+    "name": "Khoá van nhựa Ø49",
+    "unit": "cái",
+    "unitPrice": 85000,
+    "notes": null
+  },
+  {
+    "name": "Khoá van nhựa Ø60",
+    "unit": "cái",
+    "unitPrice": 80000,
+    "notes": null
+  },
+  {
+    "name": "Khoá van nhựa Ø76",
+    "unit": "cái",
+    "unitPrice": 255000,
+    "notes": null
+  },
+  {
+    "name": "Khoá van nhựa Ø90",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Khoá van nhựa Ø110",
+    "unit": "cái",
+    "unitPrice": 472000,
+    "notes": null
+  },
+  {
+    "name": "Khóa van nhựa tăng đơ phi 110",
+    "unit": "cái",
+    "unitPrice": 600000,
+    "notes": null
+  },
+  {
+    "name": "Khoá van nhựa Ø114",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Khoá van nhựa Ø168",
+    "unit": "cái",
+    "unitPrice": 1800000,
+    "notes": null
+  },
+  {
+    "name": "Khung cưa sắt",
+    "unit": "cái",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "Khẩu trang",
+    "unit": "cái",
+    "unitPrice": 4500,
+    "notes": null
+  },
+  {
+    "name": "Khẩu trang trùm đầu",
+    "unit": "cái",
+    "unitPrice": 39000,
+    "notes": null
+  },
+  {
+    "name": "Khẩu trang chống độc",
+    "unit": "cái",
+    "unitPrice": 32000,
+    "notes": null
+  },
+  {
+    "name": "Kẹp cáp néo",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Kẹp sắt chữ C",
+    "unit": "cái",
+    "unitPrice": 150000,
+    "notes": null
+  },
+  {
+    "name": "Kẹp que hàn",
+    "unit": "cái",
+    "unitPrice": 110000,
+    "notes": null
+  },
+  {
+    "name": "Kẹp inox",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Lô từ nước",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Lục giác",
+    "unit": "bộ",
+    "unitPrice": 100000,
+    "notes": null
+  },
+  {
+    "name": "Lục giác phi 12",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Lục giác phi 14",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Lục giác phi 10",
+    "unit": "cái",
+    "unitPrice": 30000,
+    "notes": null
+  },
+  {
+    "name": "Lục giác phi 8",
+    "unit": "cái",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Lục giác phi 6",
+    "unit": "cái",
+    "unitPrice": 13000,
+    "notes": null
+  },
+  {
+    "name": "Lục giác phi 4",
+    "unit": "cái",
+    "unitPrice": 13000,
+    "notes": null
+  },
+  {
+    "name": "Long đền Ø8dày",
+    "unit": "cái",
+    "unitPrice": 1500,
+    "notes": null
+  },
+  {
+    "name": "Long đền Ø10 dày",
+    "unit": "cái",
+    "unitPrice": 1500,
+    "notes": null
+  },
+  {
+    "name": "Long đền Ø12 dày",
+    "unit": "cái",
+    "unitPrice": 900,
+    "notes": null
+  },
+  {
+    "name": "Long đền Ø14 dày",
+    "unit": "cái",
+    "unitPrice": 1000,
+    "notes": null
+  },
+  {
+    "name": "Long đền Ø16 dày",
+    "unit": "cái",
+    "unitPrice": 2000,
+    "notes": null
+  },
+  {
+    "name": "Long đền Ø18 dày",
+    "unit": "cái",
+    "unitPrice": 2000,
+    "notes": null
+  },
+  {
+    "name": "Lơ nhựa Ø21",
+    "unit": "cái",
+    "unitPrice": 5000,
+    "notes": null
+  },
+  {
+    "name": "Lơ nhựa Ø27",
+    "unit": "cái",
+    "unitPrice": 5000,
+    "notes": null
+  },
+  {
+    "name": "Lơ nhựa Ø34",
+    "unit": "cái",
+    "unitPrice": 10000,
+    "notes": null
+  },
+  {
+    "name": "Lơ nhựa Ø49",
+    "unit": "cái",
+    "unitPrice": 13000,
+    "notes": null
+  },
+  {
+    "name": "Lơ nhựa Ø76",
+    "unit": "cái",
+    "unitPrice": 15000,
+    "notes": null
+  },
+  {
+    "name": "Lơ nhựa Ø110",
+    "unit": "cái",
+    "unitPrice": 30000,
+    "notes": null
+  },
+  {
+    "name": "Lơ nhựa Ø114 QC",
+    "unit": "cái",
+    "unitPrice": 45000,
+    "notes": null
+  },
+  {
+    "name": "Lơ nhựa Ø168",
+    "unit": "cái",
+    "unitPrice": 95000,
+    "notes": null
+  },
+  {
+    "name": "Lơ nhựa Ø200",
+    "unit": "cái",
+    "unitPrice": 270000,
+    "notes": null
+  },
+  {
+    "name": "Lốp xe kéo",
+    "unit": "cái",
+    "unitPrice": 120000,
+    "notes": null
+  },
+  {
+    "name": "Lốp xe rùa",
+    "unit": "cái",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Lốp 600-12",
+    "unit": "cái",
+    "unitPrice": 535000,
+    "notes": null
+  },
+  {
+    "name": "Lá răng 600-12",
+    "unit": "cặp",
+    "unitPrice": 205000,
+    "notes": null
+  },
+  {
+    "name": "Lưỡi cưa sắt",
+    "unit": "cái",
+    "unitPrice": 7000,
+    "notes": null
+  },
+  {
+    "name": "Lưỡi cưa gỗ 350",
+    "unit": "cái",
+    "unitPrice": 450000,
+    "notes": null
+  },
+  {
+    "name": "Lưỡi máy phay",
+    "unit": "cái",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Lưỡi cắt bê tông",
+    "unit": "cái",
+    "unitPrice": 65000,
+    "notes": null
+  },
+  {
+    "name": "Lưỡi dao rọc giấy",
+    "unit": "cái",
+    "unitPrice": 2000,
+    "notes": null
+  },
+  {
+    "name": "Lề cửa",
+    "unit": "cái",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "Lề cửa phi 18",
+    "unit": "cái",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Lề cửa phi 22",
+    "unit": "cái",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "Lúp bê Ø49",
+    "unit": "cái",
+    "unitPrice": 40000,
+    "notes": null
+  },
+  {
+    "name": "Lúp bê Ø34",
+    "unit": "cái",
+    "unitPrice": 20000,
+    "notes": null
+  },
+  {
+    "name": "Lúp bê Ø27",
+    "unit": "cái",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Lúp bê Ø60 trắng",
+    "unit": "cái",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Lúp bê Ø76",
+    "unit": "cái",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Lúp bê Ø100",
+    "unit": "cái",
+    "unitPrice": 85000,
+    "notes": null
+  },
+  {
+    "name": "Lúp bê Ø110",
+    "unit": "cái",
+    "unitPrice": 90000,
+    "notes": null
+  },
+  {
+    "name": "Lúp bê Ø114",
+    "unit": "cái",
+    "unitPrice": 110000,
+    "notes": null
+  },
+  {
+    "name": "Lúp bê Ø120",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Lúp bê Ø140",
+    "unit": "cái",
+    "unitPrice": 180000,
+    "notes": null
+  },
+  {
+    "name": "Lúp bê Ø160",
+    "unit": "cái",
+    "unitPrice": 235000,
+    "notes": null
+  },
+  {
+    "name": "Lúp bê Ø168",
+    "unit": "cái",
+    "unitPrice": 280000,
+    "notes": null
+  },
+  {
+    "name": "Lúp bê Ø200",
+    "unit": "cái",
+    "unitPrice": 450000,
+    "notes": null
+  },
+  {
+    "name": "Lưới lọc rác sắt",
+    "unit": "m",
+    "unitPrice": 20000,
+    "notes": null
+  },
+  {
+    "name": "Lưới lọc rác",
+    "unit": "m",
+    "unitPrice": 72000,
+    "notes": null
+  },
+  {
+    "name": "Lưới sàng inox (lỗ 30)",
+    "unit": "m2",
+    "unitPrice": 260000,
+    "notes": null
+  },
+  {
+    "name": "Lưới inox",
+    "unit": "m",
+    "unitPrice": 280000,
+    "notes": null
+  },
+  {
+    "name": "Lưới trắng mịn",
+    "unit": "m",
+    "unitPrice": 7500,
+    "notes": null
+  },
+  {
+    "name": "Lưới B40",
+    "unit": "kg",
+    "unitPrice": 24000,
+    "notes": null
+  },
+  {
+    "name": "Lọc nhiên liệu",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Lọc nhớt",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Lọc gió",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Luồng",
+    "unit": "cây",
+    "unitPrice": 90000,
+    "notes": null
+  },
+  {
+    "name": "Mủ nhựa",
+    "unit": "cái",
+    "unitPrice": 42000,
+    "notes": null
+  },
+  {
+    "name": "Mủ vải",
+    "unit": "cái",
+    "unitPrice": 27000,
+    "notes": null
+  },
+  {
+    "name": "Ma ní",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Máy bơm dầu Điezen 12V",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Máy hàn nhựa",
+    "unit": "cái",
+    "unitPrice": 3000000,
+    "notes": null
+  },
+  {
+    "name": "Máy hàn HK 250Z",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Máy cưa gỗ",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Máy cưa xích",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Máy cắt săt 355mm",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Máy khoan 16mm",
+    "unit": "cái",
+    "unitPrice": 1100000,
+    "notes": null
+  },
+  {
+    "name": "Máy mài tay 100mm",
+    "unit": "cái",
+    "unitPrice": 1000000,
+    "notes": null
+  },
+  {
+    "name": "Máy phun sơn",
+    "unit": "cái",
+    "unitPrice": 700000,
+    "notes": null
+  },
+  {
+    "name": "Mặt nạ hàn",
+    "unit": "cái",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "Mắt kính hàn",
+    "unit": "cái",
+    "unitPrice": 7000,
+    "notes": null
+  },
+  {
+    "name": "Măng sông Ø200x5",
+    "unit": "cái",
+    "unitPrice": 271000,
+    "notes": null
+  },
+  {
+    "name": "Măng sông Ø76",
+    "unit": "cái",
+    "unitPrice": 20000,
+    "notes": null
+  },
+  {
+    "name": "Mặt 2 công tác + 2 ổ cắm",
+    "unit": "cái",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Mặt 3 công tác",
+    "unit": "cái",
+    "unitPrice": 15000,
+    "notes": null
+  },
+  {
+    "name": "Mặt 3 ổ cắm",
+    "unit": "cái",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Mặt lắp aptomat",
+    "unit": "cái",
+    "unitPrice": 20000,
+    "notes": null
+  },
+  {
+    "name": "Máy nén khí",
+    "unit": "cái",
+    "unitPrice": 5750000,
+    "notes": null
+  },
+  {
+    "name": "Máng bàn đãi",
+    "unit": "cái",
+    "unitPrice": 600000,
+    "notes": null
+  },
+  {
+    "name": "Mỡ đỏ",
+    "unit": "kg",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "Mỡ sinô",
+    "unit": "hộp",
+    "unitPrice": 300000,
+    "notes": null
+  },
+  {
+    "name": "Mỡ chịu nhiệt",
+    "unit": "xô",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Mỏ lết 250mm",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Mỏ lết 15\" 400mm",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Mỏ lết răng",
+    "unit": "cái",
+    "unitPrice": 280000,
+    "notes": null
+  },
+  {
+    "name": "Mỏ hàn điện",
+    "unit": "cái",
+    "unitPrice": 65000,
+    "notes": null
+  },
+  {
+    "name": "Mũi đinh bắn tôn",
+    "unit": "cái",
+    "unitPrice": 20000,
+    "notes": null
+  },
+  {
+    "name": "Mũi khoan Ø2",
+    "unit": "cái",
+    "unitPrice": 10000,
+    "notes": null
+  },
+  {
+    "name": "Mũi khoan Ø4",
+    "unit": "cái",
+    "unitPrice": 20000,
+    "notes": null
+  },
+  {
+    "name": "Mũi khoan Ø5",
+    "unit": "cái",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "Mũi khoan Ø6",
+    "unit": "cái",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Mũi khoan Ø8",
+    "unit": "cái",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "Mũi khoan Ø9",
+    "unit": "cái",
+    "unitPrice": 10000,
+    "notes": null
+  },
+  {
+    "name": "Mũi khoan Ø10",
+    "unit": "cái",
+    "unitPrice": 60000,
+    "notes": null
+  },
+  {
+    "name": "Mũi khoan Ø12",
+    "unit": "cái",
+    "unitPrice": 70000,
+    "notes": null
+  },
+  {
+    "name": "Mũi khoan Ø14",
+    "unit": "cái",
+    "unitPrice": 45000,
+    "notes": null
+  },
+  {
+    "name": "Mũi khoan Ø16",
+    "unit": "cái",
+    "unitPrice": 110000,
+    "notes": null
+  },
+  {
+    "name": "Mũi khoan Ø18",
+    "unit": "cái",
+    "unitPrice": 170000,
+    "notes": null
+  },
+  {
+    "name": "Mũi khoan Ø19",
+    "unit": "cái",
+    "unitPrice": 55000,
+    "notes": null
+  },
+  {
+    "name": "Mũi khoan Ø20",
+    "unit": "cái",
+    "unitPrice": 60000,
+    "notes": null
+  },
+  {
+    "name": "Mũi khoan Ø27",
+    "unit": "cái",
+    "unitPrice": 65000,
+    "notes": null
+  },
+  {
+    "name": "Mũi khoan Ø34",
+    "unit": "cái",
+    "unitPrice": 90000,
+    "notes": null
+  },
+  {
+    "name": "Mũi khoan sắt",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Mũi khoan bê tông Ø8",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Mũi khoan bê tông Ø12",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Mũi dao tiện các loại",
+    "unit": "cái",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Mũi ta rô Ø6",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Mũi ta rô Ø8",
+    "unit": "bộ",
+    "unitPrice": 45000,
+    "notes": null
+  },
+  {
+    "name": "Mũi ta rô Ø10",
+    "unit": "bộ",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Mũi ta rô Ø12",
+    "unit": "bộ",
+    "unitPrice": 65000,
+    "notes": null
+  },
+  {
+    "name": "Mũi ta rô Ø14",
+    "unit": "bộ",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Mũi ta rô Ø16",
+    "unit": "cái",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "Mũi ta rô Ø18",
+    "unit": "cái",
+    "unitPrice": 40000,
+    "notes": null
+  },
+  {
+    "name": "Mũi ta rô Ø20",
+    "unit": "cái",
+    "unitPrice": 45000,
+    "notes": null
+  },
+  {
+    "name": "Mũi ta rô Ø22",
+    "unit": "cái",
+    "unitPrice": 55000,
+    "notes": null
+  },
+  {
+    "name": "Mũi ta rô Ø24",
+    "unit": "cái",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Mũi bắn tôn",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nắp bơm 6 lổ",
+    "unit": "cái",
+    "unitPrice": 181818,
+    "notes": null
+  },
+  {
+    "name": "Nắp túp 230",
+    "unit": "cái",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "Nắp túp 270",
+    "unit": "cái",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "Nắp túp 300",
+    "unit": "cái",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "Nắp túp 7,5kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nắp chắn mở 300",
+    "unit": "cái",
+    "unitPrice": 45455,
+    "notes": null
+  },
+  {
+    "name": "Nắp chắn mở 270",
+    "unit": "cái",
+    "unitPrice": 412000,
+    "notes": null
+  },
+  {
+    "name": "Nắp chắn mở 230",
+    "unit": "cái",
+    "unitPrice": 387000,
+    "notes": null
+  },
+  {
+    "name": "Nắp chắn mở 200",
+    "unit": "cái",
+    "unitPrice": 352000,
+    "notes": null
+  },
+  {
+    "name": "Nắp chắn mỡ 45 kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nắp chắn mỡ 7,5 kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nắp chắn mỡ 11 kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nắp chắn mỡ 5,5 kw (nắp baxtup 7,5kw)",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nắp baxtup 7,5kw",
+    "unit": "cái",
+    "unitPrice": 23035,
+    "notes": null
+  },
+  {
+    "name": "Nắp baxtup 5,5kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nắp baxtup 300",
+    "unit": "cái",
+    "unitPrice": 34090,
+    "notes": null
+  },
+  {
+    "name": "Nắp bơm nước 5.5kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nắp bơm nước 11kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nắp  môtơ 4kw",
+    "unit": "bộ",
+    "unitPrice": 200000,
+    "notes": null
+  },
+  {
+    "name": "Nắp  môtơ 4,5 kw",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nắp  môtơ 5,5 kw",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nắp sau môtơ 4,5 kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nắp sau  môtơ 5,5 kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nắp  trước động cơ 7,5 kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nắp  trước động cơ Việt Hưng",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nắp  bảo vệ lá quạt động cơ 4kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nắp  bảo vệ lá quạt động cơ 1,1kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nắp  bảo vệ lá quạt động cơ 4,5kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nắp  bảo vệ động cơ 5,5kw",
+    "unit": "cái",
+    "unitPrice": 105000,
+    "notes": null
+  },
+  {
+    "name": "Nắp  bảo vệ động cơ 7,5kw",
+    "unit": "cái",
+    "unitPrice": 105000,
+    "notes": null
+  },
+  {
+    "name": "Nắp  bảo vệ  động cơ 11kw",
+    "unit": "cái",
+    "unitPrice": 150000,
+    "notes": null
+  },
+  {
+    "name": "Nắp  bảo vệ  động cơ 15kw",
+    "unit": "cái",
+    "unitPrice": 150000,
+    "notes": null
+  },
+  {
+    "name": "Nắp  bảo vệ lá quạt động cơ 18kw",
+    "unit": "cái",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "Nắp  bảo vệ động cơ 18,5kw",
+    "unit": "cái",
+    "unitPrice": 230000,
+    "notes": null
+  },
+  {
+    "name": "Nắp  bảo vệ lá quạt động cơ 30kw",
+    "unit": "cái",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Nắp  bảo vệ cầu động cơ",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nhong phi 80 - ĐK20",
+    "unit": "cái",
+    "unitPrice": 498000,
+    "notes": null
+  },
+  {
+    "name": "Nhong phi 80 -ĐK 9",
+    "unit": "cái",
+    "unitPrice": 335000,
+    "notes": null
+  },
+  {
+    "name": "Nhong lò sấy",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nhong xích phi 100",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nhong 31 răng",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nhựa đường",
+    "unit": "kg",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Nối 27",
+    "unit": "cái",
+    "unitPrice": 5000,
+    "notes": null
+  },
+  {
+    "name": "Nối thẳng phi 114",
+    "unit": "cái",
+    "unitPrice": 16000,
+    "notes": null
+  },
+  {
+    "name": "Nối  phi 34 (Cút nối 34)",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Măng song phi 42",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Măng song phi 60",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nối T phi 49",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nối T phi 76",
+    "unit": "cái",
+    "unitPrice": 11000,
+    "notes": null
+  },
+  {
+    "name": "Nối nhựa phi 200",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Nối thẳng phi 76(khớp nối nhựa 76)",
+    "unit": "cái",
+    "unitPrice": 11000,
+    "notes": null
+  },
+  {
+    "name": "Nắp bịt ống lộc",
+    "unit": "cái",
+    "unitPrice": 10000,
+    "notes": null
+  },
+  {
+    "name": "Nắp bịt phi 76",
+    "unit": "cái",
+    "unitPrice": 11000,
+    "notes": null
+  },
+  {
+    "name": "Nắp bịt phi 114",
+    "unit": "cái",
+    "unitPrice": 12000,
+    "notes": null
+  },
+  {
+    "name": "Ngói úp brô xi măng",
+    "unit": "tấm",
+    "unitPrice": 15000,
+    "notes": null
+  },
+  {
+    "name": "Nút cao su",
+    "unit": "cái",
+    "unitPrice": 3000,
+    "notes": null
+  },
+  {
+    "name": "Nẹp dây điện",
+    "unit": "cái",
+    "unitPrice": 13000,
+    "notes": null
+  },
+  {
+    "name": "Nẹp inox",
+    "unit": "cái",
+    "unitPrice": 60000,
+    "notes": null
+  },
+  {
+    "name": "ủng",
+    "unit": "đôi",
+    "unitPrice": 68000,
+    "notes": null
+  },
+  {
+    "name": "ổ cắm 3 lỗ",
+    "unit": "cái",
+    "unitPrice": 18000,
+    "notes": null
+  },
+  {
+    "name": "Ô xy",
+    "unit": "chai",
+    "unitPrice": 150000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6005 KOYO",
+    "unit": "ổ",
+    "unitPrice": 58000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6005 SKF",
+    "unit": "ổ",
+    "unitPrice": 68000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6006 SKF-2RS",
+    "unit": "ổ",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6006 KOYO",
+    "unit": "ổ",
+    "unitPrice": 70000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6007 KOYO",
+    "unit": "ổ",
+    "unitPrice": 100000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6007 SKF-2RS",
+    "unit": "ổ",
+    "unitPrice": 89000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6008 SKF-2RS",
+    "unit": "ổ",
+    "unitPrice": 120000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6008 KOYO",
+    "unit": "ổ",
+    "unitPrice": 110000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6201 KOYO",
+    "unit": "ổ",
+    "unitPrice": 27000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6201 SKF - 2RS",
+    "unit": "ổ",
+    "unitPrice": 43000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6203 KOYO",
+    "unit": "ổ",
+    "unitPrice": 45000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6203 SKF - 2RS",
+    "unit": "ổ",
+    "unitPrice": 56000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6204 KOYO",
+    "unit": "ổ",
+    "unitPrice": 49000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6204 SKF - 2RS",
+    "unit": "ổ",
+    "unitPrice": 65000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6205 KOYO",
+    "unit": "ổ",
+    "unitPrice": 58000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6205 SKF - 2RS",
+    "unit": "ổ",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6206 KOYO",
+    "unit": "ổ",
+    "unitPrice": 78000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6206 SKF",
+    "unit": "ổ",
+    "unitPrice": 108000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6207 KOYO",
+    "unit": "ổ",
+    "unitPrice": 92000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6207 SKF - 2RS",
+    "unit": "ổ",
+    "unitPrice": 188000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6208 KOYO",
+    "unit": "ổ",
+    "unitPrice": 118000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6208 SKF",
+    "unit": "ổ",
+    "unitPrice": 230000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6209 KOYO",
+    "unit": "ổ",
+    "unitPrice": 156000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6209 SKF",
+    "unit": "ổ",
+    "unitPrice": 256000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6211 KOYO",
+    "unit": "ổ",
+    "unitPrice": 218000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6211 SKF",
+    "unit": "ổ",
+    "unitPrice": 288000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6303 SKF",
+    "unit": "ổ",
+    "unitPrice": 85000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6304 KOYO",
+    "unit": "ổ",
+    "unitPrice": 65000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6304 SKF",
+    "unit": "ổ",
+    "unitPrice": 95000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6305 KG",
+    "unit": "ổ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6305 KOYO",
+    "unit": "ổ",
+    "unitPrice": 76000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6305 SKF HN",
+    "unit": "ổ",
+    "unitPrice": 143000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6305 SKF TH",
+    "unit": "ổ",
+    "unitPrice": 143000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6306 KOYO",
+    "unit": "ổ",
+    "unitPrice": 106000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6306 SKF - 2RS",
+    "unit": "ổ",
+    "unitPrice": 135000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6307 KOYO",
+    "unit": "ổ",
+    "unitPrice": 131000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6307 SKF - 2RS HN",
+    "unit": "ổ",
+    "unitPrice": 175000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6308 KOYO",
+    "unit": "ổ",
+    "unitPrice": 178000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6308 KG",
+    "unit": "ổ",
+    "unitPrice": 79000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6308 SKF HN",
+    "unit": "ổ",
+    "unitPrice": 276000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6308 SKF TH",
+    "unit": "ổ",
+    "unitPrice": 276000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6309 KOYO",
+    "unit": "ổ",
+    "unitPrice": 283000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6309 KG",
+    "unit": "ổ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6309 SKF HN",
+    "unit": "ổ",
+    "unitPrice": 450000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6309 SKF TH",
+    "unit": "ổ",
+    "unitPrice": 450000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6310 KOYO",
+    "unit": "ổ",
+    "unitPrice": 295000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6310 SKF",
+    "unit": "ổ",
+    "unitPrice": 450000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6311 KOYO",
+    "unit": "ổ",
+    "unitPrice": 405000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6311 SKF",
+    "unit": "ổ",
+    "unitPrice": 405000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6312 KOYO",
+    "unit": "ổ",
+    "unitPrice": 515000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6312 SKF HN",
+    "unit": "ổ",
+    "unitPrice": 454000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6312 SKF TH",
+    "unit": "ổ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6313 SKF HN",
+    "unit": "ổ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6314 SKF HN",
+    "unit": "ổ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6314 SKF TH",
+    "unit": "ổ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6408 SKF TH",
+    "unit": "ổ",
+    "unitPrice": 385000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6412 KOYO",
+    "unit": "ổ",
+    "unitPrice": 920000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 6412 SKF",
+    "unit": "ổ",
+    "unitPrice": 896000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 30310 KOYO",
+    "unit": "ổ",
+    "unitPrice": 330000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 30310 SKF",
+    "unit": "ổ",
+    "unitPrice": 430000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 1207 SKF",
+    "unit": "ổ",
+    "unitPrice": 160000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 1209",
+    "unit": "ổ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 1211 KOYO",
+    "unit": "ổ",
+    "unitPrice": 275000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 1211 SKF",
+    "unit": "ổ",
+    "unitPrice": 285000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 1307 SKF",
+    "unit": "ổ",
+    "unitPrice": 235000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 1307KOYO",
+    "unit": "ổ",
+    "unitPrice": 195000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 1308 KOYO",
+    "unit": "ổ",
+    "unitPrice": 245000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 1308 SKF",
+    "unit": "ổ",
+    "unitPrice": 345000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 1309 KOYO",
+    "unit": "ổ",
+    "unitPrice": 275000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 1309 SKF",
+    "unit": "ổ",
+    "unitPrice": 375000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 22UZ 21135 KOYO",
+    "unit": "ổ",
+    "unitPrice": 2400000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 23026",
+    "unit": "ổ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 22316 SKF",
+    "unit": "ổ",
+    "unitPrice": 2250000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 32316KOYO",
+    "unit": "ổ",
+    "unitPrice": 1830000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 32316SKF",
+    "unit": "ổ",
+    "unitPrice": 2000000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 32215 KOYO",
+    "unit": "ổ",
+    "unitPrice": 566000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 32215 SKF",
+    "unit": "ổ",
+    "unitPrice": 666000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi NJ 314(Nhật)",
+    "unit": "ổ",
+    "unitPrice": 1200000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi 40*115*30SKF",
+    "unit": "ổ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi gối UCP 206 XLZY (liên doanh)",
+    "unit": "ổ",
+    "unitPrice": 76000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi gối UCP 206 KOYO",
+    "unit": "ổ",
+    "unitPrice": 222000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi gối UCP 207(Đài Loan)",
+    "unit": "ổ",
+    "unitPrice": 115000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi gối UCP 208(Đài Loan)",
+    "unit": "ổ",
+    "unitPrice": 120000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi gối UCP 209(Đài Loan)",
+    "unit": "ổ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi gối UCP 210(Đài Loan)",
+    "unit": "ổ",
+    "unitPrice": 185000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi gối UCP 211 XLZY (liên doanh)",
+    "unit": "ổ",
+    "unitPrice": 225000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi gối UCP 214(NLD)",
+    "unit": "ổ",
+    "unitPrice": 380000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi gối UCP 216(NLD)",
+    "unit": "ổ",
+    "unitPrice": 550000,
+    "notes": null
+  },
+  {
+    "name": "Ổ bi gối UCP 311(NLD)",
+    "unit": "ổ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ống HDPE Ø20 3ly BM",
+    "unit": "m",
+    "unitPrice": 8000,
+    "notes": null
+  },
+  {
+    "name": "Ống HDPE Ø40 3ly BM",
+    "unit": "m",
+    "unitPrice": 24000,
+    "notes": null
+  },
+  {
+    "name": "Ống HDPE Ø76 3,6 ly BM",
+    "unit": "m",
+    "unitPrice": 57000,
+    "notes": null
+  },
+  {
+    "name": "Ống HDPE Ø110 4,2ly BM",
+    "unit": "m",
+    "unitPrice": 84000,
+    "notes": null
+  },
+  {
+    "name": "Ống HDPE Ø110 5.3ly BM",
+    "unit": "m",
+    "unitPrice": 104000,
+    "notes": null
+  },
+  {
+    "name": "Ống HDPE Ø110 6,6ly BM",
+    "unit": "m",
+    "unitPrice": 127000,
+    "notes": null
+  },
+  {
+    "name": "Ống HDPE Ø125 7,4ly BM",
+    "unit": "m",
+    "unitPrice": 162000,
+    "notes": null
+  },
+  {
+    "name": "Ống HDPE Ø125 4,8ly BM",
+    "unit": "m",
+    "unitPrice": 109000,
+    "notes": null
+  },
+  {
+    "name": "Ống cao su đen lõi thép  Ø100",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ống cao su không kẽm Ø 125",
+    "unit": "m",
+    "unitPrice": 390000,
+    "notes": null
+  },
+  {
+    "name": "Ống cao su không kẽm Ø120",
+    "unit": "m",
+    "unitPrice": 390000,
+    "notes": null
+  },
+  {
+    "name": "Ống cao su không kẽm Ø 49",
+    "unit": "m",
+    "unitPrice": 130000,
+    "notes": null
+  },
+  {
+    "name": "Ống cao su không kẽm Ø 42",
+    "unit": "m",
+    "unitPrice": 120000,
+    "notes": null
+  },
+  {
+    "name": "Ống cao su không kẽm Ø76",
+    "unit": "m",
+    "unitPrice": 260000,
+    "notes": null
+  },
+  {
+    "name": "Ống cao su lõi thép phi 120 DRC Đã nẵng",
+    "unit": "m",
+    "unitPrice": 954545,
+    "notes": null
+  },
+  {
+    "name": "Ống cao su phi 125 đỏ DRC Đã nẵng",
+    "unit": "m",
+    "unitPrice": 550000,
+    "notes": null
+  },
+  {
+    "name": "Ống cao su phi 125 đen DRC Đã nẵng",
+    "unit": "m",
+    "unitPrice": 420000,
+    "notes": null
+  },
+  {
+    "name": "Ống cao su phi 110 đen DRC Đã nẵng",
+    "unit": "m",
+    "unitPrice": 370000,
+    "notes": null
+  },
+  {
+    "name": "Ống cao su phi 76 đen DRC Đã nẵng",
+    "unit": "m",
+    "unitPrice": 260000,
+    "notes": null
+  },
+  {
+    "name": "Ống hồng Ø20",
+    "unit": "m",
+    "unitPrice": 13000,
+    "notes": null
+  },
+  {
+    "name": "Ống hồng Ø21",
+    "unit": "m",
+    "unitPrice": 13000,
+    "notes": null
+  },
+  {
+    "name": "Ống hồng Ø27 (25)",
+    "unit": "m",
+    "unitPrice": 15616,
+    "notes": null
+  },
+  {
+    "name": "Ống hồng Ø30",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ống inox Ø 21",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa Ø21(3ly)",
+    "unit": "m",
+    "unitPrice": 12500,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa Ø27 (3,2 ly)",
+    "unit": "m",
+    "unitPrice": 13750,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa Ø34 2ly",
+    "unit": "m",
+    "unitPrice": 15000,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa Ø40 3ly",
+    "unit": "m",
+    "unitPrice": 22049,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa Ø42 3ly",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa Ø49 3,5ly",
+    "unit": "m",
+    "unitPrice": 36250,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa Ø60 3,5ly ĐN",
+    "unit": "m",
+    "unitPrice": 41001,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa Ø76 3ly NM",
+    "unit": "m",
+    "unitPrice": 63500,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa Ø76 3ly QC",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa Ø110 3,4ly NM",
+    "unit": "m",
+    "unitPrice": 100000,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa Ø110 4.2ly NM",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa Ø114 3,2ly NM",
+    "unit": "m",
+    "unitPrice": 95000,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa Ø114 3,5ly",
+    "unit": "m",
+    "unitPrice": 71250,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa Ø114 3,8ly NM",
+    "unit": "m",
+    "unitPrice": 107500,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa Ø125 3,9ly",
+    "unit": "m",
+    "unitPrice": 96000,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa Ø168 4,3ly",
+    "unit": "m",
+    "unitPrice": 166666.67,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa Ø168 7.3ly",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa Ø200",
+    "unit": "m",
+    "unitPrice": 256000,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa Ø225*5.1ly",
+    "unit": "m",
+    "unitPrice": 275000,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa Ø225*10.8ly",
+    "unit": "m",
+    "unitPrice": 528000,
+    "notes": null
+  },
+  {
+    "name": "Ống lộc Ø49",
+    "unit": "m",
+    "unitPrice": 30000,
+    "notes": null
+  },
+  {
+    "name": "Ống cân nước",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ống dẫn hơi",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ống cao su van ĐN phi 100",
+    "unit": "cái",
+    "unitPrice": 820000,
+    "notes": null
+  },
+  {
+    "name": "Ống cao su van ĐN phi 80",
+    "unit": "cái",
+    "unitPrice": 520000,
+    "notes": null
+  },
+  {
+    "name": "Ống cao su van ĐN phi 70",
+    "unit": "cái",
+    "unitPrice": 600000,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa không kẽm Ø114(5ly)",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa lõi kẽm Ø49(3ly)",
+    "unit": "m",
+    "unitPrice": 93000,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa lõi kẽm Ø76(5ly)",
+    "unit": "m",
+    "unitPrice": 210000,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa lõi kẽm Ø100(8ly) hàn quốc",
+    "unit": "m",
+    "unitPrice": 320000,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa lõi kẽm Ø110",
+    "unit": "m",
+    "unitPrice": 230000,
+    "notes": null
+  },
+  {
+    "name": "Ống nhựa đen Huế phi 100",
+    "unit": "m",
+    "unitPrice": 52000,
+    "notes": null
+  },
+  {
+    "name": "Ống cao su đen phi 100 DRC Đã nẵng",
+    "unit": "m",
+    "unitPrice": 480000,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø21(2,6ly)",
+    "unit": "m",
+    "unitPrice": 46666.666666666664,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø21(7,1ly)",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø21(3ly) inox",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø27(2,6ly)",
+    "unit": "m",
+    "unitPrice": 60000,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø34(3,2ly)",
+    "unit": "m",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø34 ren 2 đầu",
+    "unit": "cái",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø42 ren 2 đầu",
+    "unit": "cái",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø60 ren 2 đầu",
+    "unit": "cái",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø49(3,2ly)",
+    "unit": "m",
+    "unitPrice": 127500,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø60(3,2ly)",
+    "unit": "m",
+    "unitPrice": 160833.33333333334,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø76(3,2ly)",
+    "unit": "m",
+    "unitPrice": 208333.33333333334,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø90(3,2ly)",
+    "unit": "m",
+    "unitPrice": 175000,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø100(4ly)",
+    "unit": "m",
+    "unitPrice": 235000,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø110(4ly)",
+    "unit": "m",
+    "unitPrice": 260000,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø114(3,2ly)",
+    "unit": "m",
+    "unitPrice": 250000,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø114(6ly)",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø125(3,2ly)",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø127(3,2ly)",
+    "unit": "m",
+    "unitPrice": 427261,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø140(5ly)",
+    "unit": "m",
+    "unitPrice": 533333.3333333334,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø141(8ly)",
+    "unit": "m",
+    "unitPrice": 614000,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø141(3,2ly)",
+    "unit": "m",
+    "unitPrice": 378788,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø168(7,1ly) inox",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø168(4,8ly)",
+    "unit": "m",
+    "unitPrice": 653333.3333333334,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø220",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø280(4ly)",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø700",
+    "unit": "ống",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø450",
+    "unit": "ống",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø1m80F*6ly (0,8m/ống)",
+    "unit": "ống",
+    "unitPrice": 4318181.666666667,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø1m*1m*6ly (1m/ống)",
+    "unit": "ống",
+    "unitPrice": 5176000,
+    "notes": null
+  },
+  {
+    "name": "Ống thép mạ kẽm Ø1m*0.4m*6ly (0.4m/ống)",
+    "unit": "ống",
+    "unitPrice": 2070000,
+    "notes": null
+  },
+  {
+    "name": "Ống xẹp Ø80",
+    "unit": "m",
+    "unitPrice": 64000,
+    "notes": null
+  },
+  {
+    "name": "Ống xẹp Ø100",
+    "unit": "m",
+    "unitPrice": 78000,
+    "notes": null
+  },
+  {
+    "name": "Ống xịt hơi",
+    "unit": "m",
+    "unitPrice": 20000,
+    "notes": null
+  },
+  {
+    "name": "ống ghen cách điện",
+    "unit": "m",
+    "unitPrice": 5000,
+    "notes": null
+  },
+  {
+    "name": "Ổ cắm 3 lỗ",
+    "unit": "cái",
+    "unitPrice": 20000,
+    "notes": null
+  },
+  {
+    "name": "Ổn áp lioa",
+    "unit": "cái",
+    "unitPrice": 4540000,
+    "notes": null
+  },
+  {
+    "name": "Phích cắm",
+    "unit": "cái",
+    "unitPrice": 7000,
+    "notes": null
+  },
+  {
+    "name": "Palăng xích 5 tạ",
+    "unit": "bộ",
+    "unitPrice": 765000,
+    "notes": null
+  },
+  {
+    "name": "Palăng xích 1 tấn TH",
+    "unit": "bộ",
+    "unitPrice": 800000,
+    "notes": null
+  },
+  {
+    "name": "Palăng xích 1 tấn QC",
+    "unit": "bộ",
+    "unitPrice": 800000,
+    "notes": null
+  },
+  {
+    "name": "Panh sô",
+    "unit": "cái",
+    "unitPrice": 12000,
+    "notes": null
+  },
+  {
+    "name": "Pin đồng hồ",
+    "unit": "cặp",
+    "unitPrice": 5000,
+    "notes": null
+  },
+  {
+    "name": "Phớt 25x42",
+    "unit": "cái",
+    "unitPrice": 9000,
+    "notes": null
+  },
+  {
+    "name": "Phớt 25x52",
+    "unit": "cái",
+    "unitPrice": 9000,
+    "notes": null
+  },
+  {
+    "name": "Phớt 30x52",
+    "unit": "cái",
+    "unitPrice": 12000,
+    "notes": null
+  },
+  {
+    "name": "Phớt 40x60",
+    "unit": "cái",
+    "unitPrice": 13000,
+    "notes": null
+  },
+  {
+    "name": "Phớt 40x62",
+    "unit": "cái",
+    "unitPrice": 12000,
+    "notes": null
+  },
+  {
+    "name": "Phớt 40x65",
+    "unit": "cái",
+    "unitPrice": 12000,
+    "notes": null
+  },
+  {
+    "name": "Phớt 42x62",
+    "unit": "cái",
+    "unitPrice": 14000,
+    "notes": null
+  },
+  {
+    "name": "Phớt 42x65",
+    "unit": "cái",
+    "unitPrice": 15000,
+    "notes": null
+  },
+  {
+    "name": "Phớt 45x65",
+    "unit": "cái",
+    "unitPrice": 9000,
+    "notes": null
+  },
+  {
+    "name": "Phớt 45x75",
+    "unit": "cái",
+    "unitPrice": 9000,
+    "notes": null
+  },
+  {
+    "name": "Phớt 45x80",
+    "unit": "cái",
+    "unitPrice": 11000,
+    "notes": null
+  },
+  {
+    "name": "Phớt 50x80",
+    "unit": "cái",
+    "unitPrice": 11000,
+    "notes": null
+  },
+  {
+    "name": "Phớt 55x75",
+    "unit": "cái",
+    "unitPrice": 11000,
+    "notes": null
+  },
+  {
+    "name": "Phớt 65x65",
+    "unit": "cái",
+    "unitPrice": 14000,
+    "notes": null
+  },
+  {
+    "name": "Phớt 60x80",
+    "unit": "cái",
+    "unitPrice": 14000,
+    "notes": null
+  },
+  {
+    "name": "Phớt 60x90",
+    "unit": "cái",
+    "unitPrice": 14000,
+    "notes": null
+  },
+  {
+    "name": "Phớt 60x90 nhật",
+    "unit": "cái",
+    "unitPrice": 70000,
+    "notes": null
+  },
+  {
+    "name": "Phớt lò xo lùn mặt đá",
+    "unit": "cái",
+    "unitPrice": 200000,
+    "notes": null
+  },
+  {
+    "name": "Phớt bơm 370W",
+    "unit": "cái",
+    "unitPrice": 12000,
+    "notes": null
+  },
+  {
+    "name": "Phớt bơm 750W",
+    "unit": "cái",
+    "unitPrice": 12000,
+    "notes": null
+  },
+  {
+    "name": "Phớt cao su 300 (cao su phớt bát)",
+    "unit": "cái",
+    "unitPrice": 20000,
+    "notes": null
+  },
+  {
+    "name": "Phi nhựa 200 lít",
+    "unit": "cái",
+    "unitPrice": 420000,
+    "notes": null
+  },
+  {
+    "name": "Phi nhựa 180 lít",
+    "unit": "cái",
+    "unitPrice": 300000,
+    "notes": null
+  },
+  {
+    "name": "Phích cắm điện",
+    "unit": "cái",
+    "unitPrice": 300000,
+    "notes": null
+  },
+  {
+    "name": "Que hàn 3,2ly KT",
+    "unit": "kg",
+    "unitPrice": 32000,
+    "notes": null
+  },
+  {
+    "name": "Que hàn 4ly NM",
+    "unit": "kg",
+    "unitPrice": 32000,
+    "notes": null
+  },
+  {
+    "name": "Que hàn hợp kim",
+    "unit": "kg",
+    "unitPrice": 180000,
+    "notes": null
+  },
+  {
+    "name": "Que hàn 2,5ly",
+    "unit": "kg",
+    "unitPrice": 33000,
+    "notes": null
+  },
+  {
+    "name": "Que hàn Inox",
+    "unit": "kg",
+    "unitPrice": 170000,
+    "notes": null
+  },
+  {
+    "name": "Que hàn nhựa",
+    "unit": "kg",
+    "unitPrice": 90000,
+    "notes": null
+  },
+  {
+    "name": "Quả lô nghiền",
+    "unit": "cái",
+    "unitPrice": 12650000,
+    "notes": null
+  },
+  {
+    "name": "Quạt công nghiệp",
+    "unit": "cái",
+    "unitPrice": 800000,
+    "notes": null
+  },
+  {
+    "name": "Quạt thường sen ko",
+    "unit": "cái",
+    "unitPrice": 400000,
+    "notes": null
+  },
+  {
+    "name": "Quạt treo tường sen ko",
+    "unit": "cái",
+    "unitPrice": 280000,
+    "notes": null
+  },
+  {
+    "name": "Roăng cao su 300 dày 10ly",
+    "unit": "cái",
+    "unitPrice": 40000,
+    "notes": null
+  },
+  {
+    "name": "Roăng cao su 300 mỏng 3ly",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Roăng cao su 270 15 ly",
+    "unit": "cái",
+    "unitPrice": 45000,
+    "notes": null
+  },
+  {
+    "name": "Roăng cao su 230 l5 ly",
+    "unit": "cái",
+    "unitPrice": 42000,
+    "notes": null
+  },
+  {
+    "name": "Roăng cao su 200 15 ly",
+    "unit": "cái",
+    "unitPrice": 38000,
+    "notes": null
+  },
+  {
+    "name": "Roăng cao su bơm nước 11kw",
+    "unit": "cái",
+    "unitPrice": 4500,
+    "notes": null
+  },
+  {
+    "name": "Ròng rọc",
+    "unit": "cái",
+    "unitPrice": 140000,
+    "notes": null
+  },
+  {
+    "name": "Rựa",
+    "unit": "cái",
+    "unitPrice": 80000,
+    "notes": null
+  },
+  {
+    "name": "Ren 49-34",
+    "unit": "cái",
+    "unitPrice": 10000,
+    "notes": null
+  },
+  {
+    "name": "Ren 49-27",
+    "unit": "cái",
+    "unitPrice": 10000,
+    "notes": null
+  },
+  {
+    "name": "Ren 60-49",
+    "unit": "cái",
+    "unitPrice": 6000,
+    "notes": null
+  },
+  {
+    "name": "Ren 21",
+    "unit": "cái",
+    "unitPrice": 4000,
+    "notes": null
+  },
+  {
+    "name": "Ren 27",
+    "unit": "cái",
+    "unitPrice": 5000,
+    "notes": null
+  },
+  {
+    "name": "Ruột gà",
+    "unit": "m",
+    "unitPrice": 10000,
+    "notes": null
+  },
+  {
+    "name": "Rơ le nhiệt 80A",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Rơ le nhiệt 65A",
+    "unit": "cái",
+    "unitPrice": 593600,
+    "notes": null
+  },
+  {
+    "name": "Rơ le nhiệt 50A",
+    "unit": "cái",
+    "unitPrice": 550000,
+    "notes": null
+  },
+  {
+    "name": "Rơ le nhiệt 40A",
+    "unit": "cái",
+    "unitPrice": 483500,
+    "notes": null
+  },
+  {
+    "name": "Rơ le nhiệt 22A",
+    "unit": "cái",
+    "unitPrice": 455360,
+    "notes": null
+  },
+  {
+    "name": "Sơn xịt",
+    "unit": "hộp",
+    "unitPrice": 30000,
+    "notes": null
+  },
+  {
+    "name": "Sơn tổng hợp",
+    "unit": "kg",
+    "unitPrice": 65000,
+    "notes": null
+  },
+  {
+    "name": "Sơn bạch tuyết",
+    "unit": "kg",
+    "unitPrice": 100000,
+    "notes": null
+  },
+  {
+    "name": "Sơn indu",
+    "unit": "hộp",
+    "unitPrice": 200000,
+    "notes": null
+  },
+  {
+    "name": "Sơn đen",
+    "unit": "kg",
+    "unitPrice": 100000,
+    "notes": null
+  },
+  {
+    "name": "Sơn ghi",
+    "unit": "kg",
+    "unitPrice": 100000,
+    "notes": null
+  },
+  {
+    "name": "Sơn expo",
+    "unit": "lon",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "sắt phi 6",
+    "unit": "kg",
+    "unitPrice": 18000,
+    "notes": null
+  },
+  {
+    "name": "sắt phi 8",
+    "unit": "kg",
+    "unitPrice": 18000,
+    "notes": null
+  },
+  {
+    "name": "Sàng rutil bằng tay",
+    "unit": "cái",
+    "unitPrice": 300000,
+    "notes": null
+  },
+  {
+    "name": "Súng bắn keo silicon",
+    "unit": "cái",
+    "unitPrice": 45000,
+    "notes": null
+  },
+  {
+    "name": "TY 800A",
+    "unit": "cái",
+    "unitPrice": 335000,
+    "notes": null
+  },
+  {
+    "name": "TY 100/5A",
+    "unit": "cái",
+    "unitPrice": 165000,
+    "notes": null
+  },
+  {
+    "name": "Tụ bù 25KVA",
+    "unit": "cái",
+    "unitPrice": 1430000,
+    "notes": null
+  },
+  {
+    "name": "Tụ bù 20KVA",
+    "unit": "cái",
+    "unitPrice": 1300000,
+    "notes": null
+  },
+  {
+    "name": "Tủ trạm biến áp",
+    "unit": "cái",
+    "unitPrice": 13000000,
+    "notes": null
+  },
+  {
+    "name": "Tụ điện",
+    "unit": "cái",
+    "unitPrice": 60000,
+    "notes": null
+  },
+  {
+    "name": "Tủ điện nổi 1200*800*400",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Tủ điện 2 ngăn 1000*1200 TBA",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Tủ điện nổi 1000*700*300",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Tủ điện nổi 400*300*150",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Tủ điện nổi TN 700*500*200",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Tủ điện nổi TN 800*600",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Tủ điện nổi 300*200*150",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Tủ điện",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "T Nhựa Ø21",
+    "unit": "cái",
+    "unitPrice": 6000,
+    "notes": null
+  },
+  {
+    "name": "T Nhựa Ø27",
+    "unit": "cái",
+    "unitPrice": 6000,
+    "notes": null
+  },
+  {
+    "name": "T Nhựa Ø34",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "T Nhựa Ø49",
+    "unit": "cái",
+    "unitPrice": 20000,
+    "notes": null
+  },
+  {
+    "name": "T Nhựa Ø76",
+    "unit": "cái",
+    "unitPrice": 22000,
+    "notes": null
+  },
+  {
+    "name": "T Nhựa Ø90",
+    "unit": "cái",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "T Nhựa Ø110",
+    "unit": "cái",
+    "unitPrice": 47000,
+    "notes": null
+  },
+  {
+    "name": "T Nhựa Ø114",
+    "unit": "cái",
+    "unitPrice": 60000,
+    "notes": null
+  },
+  {
+    "name": "T Nhựa Ø160",
+    "unit": "cái",
+    "unitPrice": 100000,
+    "notes": null
+  },
+  {
+    "name": "T Nhựa Ø168",
+    "unit": "cái",
+    "unitPrice": 150000,
+    "notes": null
+  },
+  {
+    "name": "T Nhựa Ø200x5",
+    "unit": "cái",
+    "unitPrice": 350000,
+    "notes": null
+  },
+  {
+    "name": "T giảm 49-34",
+    "unit": "cái",
+    "unitPrice": 15000,
+    "notes": null
+  },
+  {
+    "name": "Tăng đơ phi 22",
+    "unit": "cái",
+    "unitPrice": 125000,
+    "notes": null
+  },
+  {
+    "name": "Tăng đơ phi 20",
+    "unit": "cái",
+    "unitPrice": 110000,
+    "notes": null
+  },
+  {
+    "name": "Tăng đơ phi 18",
+    "unit": "cái",
+    "unitPrice": 42000,
+    "notes": null
+  },
+  {
+    "name": "Tăng đơ phi 16",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Tăng đơ phi 12",
+    "unit": "cái",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Tôn  1,1 ly (8,6kg/m2)",
+    "unit": "m2",
+    "unitPrice": 154800,
+    "notes": null
+  },
+  {
+    "name": "Tôn  1,2 mm",
+    "unit": "kg",
+    "unitPrice": 334343.3333333333,
+    "notes": null
+  },
+  {
+    "name": "Tôn  1,5 mm",
+    "unit": "M2",
+    "unitPrice": 334343.3333333333,
+    "notes": null
+  },
+  {
+    "name": "Tôn  2 ly (15,7kg/m2)",
+    "unit": "m2",
+    "unitPrice": 353955,
+    "notes": null
+  },
+  {
+    "name": "Tôn  kẻm 2,3 ly )",
+    "unit": "m2",
+    "unitPrice": 353955,
+    "notes": null
+  },
+  {
+    "name": "Tôn  3 ly (23,57kg/m2)",
+    "unit": "m2",
+    "unitPrice": 600000,
+    "notes": null
+  },
+  {
+    "name": "Tôn phẳng 4 dem",
+    "unit": "m",
+    "unitPrice": 118182,
+    "notes": null
+  },
+  {
+    "name": "Tôn  chống trượt 3 ly (26,69kg/m)",
+    "unit": "m2",
+    "unitPrice": 485278,
+    "notes": null
+  },
+  {
+    "name": "thép tấm 4 ly (31,4kg/m2)",
+    "unit": "m2",
+    "unitPrice": 799091,
+    "notes": null
+  },
+  {
+    "name": "Tôn  4,5 ly (kg/m2)",
+    "unit": "m2",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Tôn  5 ly (39,2kg/m2)",
+    "unit": "m2",
+    "unitPrice": 666400,
+    "notes": null
+  },
+  {
+    "name": "thép tấm 6 ly",
+    "unit": "m2",
+    "unitPrice": 1413000,
+    "notes": null
+  },
+  {
+    "name": "Tôn  8 ly (63kg/m2)",
+    "unit": "m2",
+    "unitPrice": 1071000,
+    "notes": null
+  },
+  {
+    "name": "Tôn  10 ly (78,5kg/m2)",
+    "unit": "m2",
+    "unitPrice": 2355000,
+    "notes": null
+  },
+  {
+    "name": "thép tấm 12 ly (94,2kg/m2)",
+    "unit": "m2",
+    "unitPrice": 2826000,
+    "notes": null
+  },
+  {
+    "name": "thép tấm 25 ly (kg/m2)",
+    "unit": "m2",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "thép tấm 20 ly (kg/m2)",
+    "unit": "m2",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "thép tấm cắt mặt bích",
+    "unit": "tấm",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Tôn màu 0,15li",
+    "unit": "tấm",
+    "unitPrice": 360000,
+    "notes": null
+  },
+  {
+    "name": "Tôn lợp 4d",
+    "unit": "tấm",
+    "unitPrice": 347000,
+    "notes": null
+  },
+  {
+    "name": "Thép buộc 1 ly",
+    "unit": "kg",
+    "unitPrice": 29000,
+    "notes": null
+  },
+  {
+    "name": "Thép buộc 2,5ly",
+    "unit": "kg",
+    "unitPrice": 29000,
+    "notes": null
+  },
+  {
+    "name": "Thép buộc 3ly",
+    "unit": "kg",
+    "unitPrice": 30000,
+    "notes": null
+  },
+  {
+    "name": "Thép buộc 5ly",
+    "unit": "kg",
+    "unitPrice": 30000,
+    "notes": null
+  },
+  {
+    "name": "Thép hộp 10x5 2ly(4,2kg/m)",
+    "unit": "m",
+    "unitPrice": 73500,
+    "notes": null
+  },
+  {
+    "name": "Thép hộp 8x4 1,8ly(3,27kg/m)",
+    "unit": "m",
+    "unitPrice": 83333,
+    "notes": null
+  },
+  {
+    "name": "Thép hộp 20x20",
+    "unit": "m",
+    "unitPrice": 10000,
+    "notes": null
+  },
+  {
+    "name": "Thép hộp 20x40 1,4ly",
+    "unit": "m",
+    "unitPrice": 14000,
+    "notes": null
+  },
+  {
+    "name": "Thép hộp 25x50 1,4ly(1,573kg/m)",
+    "unit": "m",
+    "unitPrice": 40152,
+    "notes": null
+  },
+  {
+    "name": "Thép hộp 30x30 1,8 ly (1.56kg/m)",
+    "unit": "m",
+    "unitPrice": 38182,
+    "notes": null
+  },
+  {
+    "name": "Thép hộp 30x60 1,4ly",
+    "unit": "m",
+    "unitPrice": 30000,
+    "notes": null
+  },
+  {
+    "name": "Thép đặc vuông phi 14*14",
+    "unit": "m",
+    "unitPrice": 24900,
+    "notes": null
+  },
+  {
+    "name": "Thép V2,5",
+    "unit": "m",
+    "unitPrice": 15000,
+    "notes": null
+  },
+  {
+    "name": "Thép V3(1,416kg/m) 3ly",
+    "unit": "m",
+    "unitPrice": 30000,
+    "notes": null
+  },
+  {
+    "name": "Thép V4 * 4ly",
+    "unit": "m",
+    "unitPrice": 36000,
+    "notes": null
+  },
+  {
+    "name": "Thép V5 *5ly (3.72kg/m)",
+    "unit": "m",
+    "unitPrice": 71213,
+    "notes": null
+  },
+  {
+    "name": "Thép V6",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Thép V7*6ly(7kg/m)",
+    "unit": "m",
+    "unitPrice": 105000,
+    "notes": null
+  },
+  {
+    "name": "Thép U8 (3.94kg/m)",
+    "unit": "m",
+    "unitPrice": 78789,
+    "notes": null
+  },
+  {
+    "name": "Thép U10 (7,5kg/m)",
+    "unit": "m",
+    "unitPrice": 175000,
+    "notes": null
+  },
+  {
+    "name": "Thép U12 (9,47kg/m)",
+    "unit": "m",
+    "unitPrice": 205152,
+    "notes": null
+  },
+  {
+    "name": "Thép U14 (12kg/m)",
+    "unit": "m",
+    "unitPrice": 192000,
+    "notes": null
+  },
+  {
+    "name": "Thép U120",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Thép I 150",
+    "unit": "m",
+    "unitPrice": 234850,
+    "notes": null
+  },
+  {
+    "name": "Thép I 200(21.54kg/m)",
+    "unit": "m",
+    "unitPrice": 509091,
+    "notes": null
+  },
+  {
+    "name": "Thép trơn Ø12",
+    "unit": "m",
+    "unitPrice": 15151,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø14 (kg/m)",
+    "unit": "kg",
+    "unitPrice": 31166.666666666668,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø14",
+    "unit": "cây",
+    "unitPrice": 31166.666666666668,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø16 (1,5kg/m)",
+    "unit": "m",
+    "unitPrice": 31667,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø20 (2,5kg/m)",
+    "unit": "m",
+    "unitPrice": 45000,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø21 (kg/m)",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø22 (3kg/m)",
+    "unit": "m",
+    "unitPrice": 54000,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø24 (3,7kg/m)",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø24",
+    "unit": "cây",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø27",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø30 (5kg/m)",
+    "unit": "m",
+    "unitPrice": 161818.16666666666,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø32 (6kg/m)",
+    "unit": "m",
+    "unitPrice": 114547,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø34 (6,6kg/m)",
+    "unit": "kg",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø36 (8kg/m)",
+    "unit": "m",
+    "unitPrice": 144000,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø38",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø40 (12kg/m)",
+    "unit": "m",
+    "unitPrice": 216000,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø42 (12,5kg/m)",
+    "unit": "m",
+    "unitPrice": 225000,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø45 (13kg/m)",
+    "unit": "m",
+    "unitPrice": 410833.3333333333,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø46 (13,5kg/m)",
+    "unit": "m",
+    "unitPrice": 243000,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø49 (15kg/m)",
+    "unit": "m",
+    "unitPrice": 270000,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø50 (15,5kg/m)",
+    "unit": "m",
+    "unitPrice": 279000,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø55 (   kg/m)",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø55",
+    "unit": "kg",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø60 (20kg/m)",
+    "unit": "m",
+    "unitPrice": 360000,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø65 (25kg/m)",
+    "unit": "m",
+    "unitPrice": 450000,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø70 (30kg/m)",
+    "unit": "m",
+    "unitPrice": 540000,
+    "notes": null
+  },
+  {
+    "name": "Thép trục Ø85 (30kg/m)",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Thép trục vuông 14*14",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Théplặp là inox 304",
+    "unit": "m",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Trục bơm  270",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Trục bơm  230",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Trục bơm  200",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Trục bơm  200 DQ",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Trục bơm  nước 7,5kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Trục bơm  nước 11kw",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Thanh gia nhiệt",
+    "unit": "thanh",
+    "unitPrice": 300000,
+    "notes": null
+  },
+  {
+    "name": "Thép gai",
+    "unit": "kg",
+    "unitPrice": 22000,
+    "notes": null
+  },
+  {
+    "name": "Tre cán giáo",
+    "unit": "cây",
+    "unitPrice": 40000,
+    "notes": null
+  },
+  {
+    "name": "Thước 5 mét",
+    "unit": "cái",
+    "unitPrice": 35000,
+    "notes": null
+  },
+  {
+    "name": "Thước 7 mét",
+    "unit": "cái",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Thước 10 mét",
+    "unit": "cái",
+    "unitPrice": 65000,
+    "notes": null
+  },
+  {
+    "name": "Thước 30 mét",
+    "unit": "cái",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Thước 50 mét",
+    "unit": "cái",
+    "unitPrice": 100000,
+    "notes": null
+  },
+  {
+    "name": "Thước cặp 200mm",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Tay cắt gió",
+    "unit": "bộ",
+    "unitPrice": 250000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø200-110 x5mm",
+    "unit": "cái",
+    "unitPrice": 194000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø160-110",
+    "unit": "cái",
+    "unitPrice": 130000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø60-49",
+    "unit": "cái",
+    "unitPrice": 13000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø90-49",
+    "unit": "cái",
+    "unitPrice": 20000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø110-49",
+    "unit": "cái",
+    "unitPrice": 45000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø110-76",
+    "unit": "cái",
+    "unitPrice": 45000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø110-90",
+    "unit": "cái",
+    "unitPrice": 46000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø114-90",
+    "unit": "cái",
+    "unitPrice": 30000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø140-110",
+    "unit": "cái",
+    "unitPrice": 100000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø140-114",
+    "unit": "cái",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø168-90",
+    "unit": "cái",
+    "unitPrice": 80000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø168-110",
+    "unit": "cái",
+    "unitPrice": 125000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø168-114",
+    "unit": "cái",
+    "unitPrice": 70000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø168-140",
+    "unit": "cái",
+    "unitPrice": 100000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø168-200",
+    "unit": "cái",
+    "unitPrice": 150000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø27-21",
+    "unit": "cái",
+    "unitPrice": 5000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø34-21",
+    "unit": "cái",
+    "unitPrice": 6000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø34-27",
+    "unit": "cái",
+    "unitPrice": 6000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø49-27",
+    "unit": "cái",
+    "unitPrice": 10000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø49-21",
+    "unit": "cái",
+    "unitPrice": 10000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø76-34",
+    "unit": "cái",
+    "unitPrice": 15000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø76-49",
+    "unit": "cái",
+    "unitPrice": 15000,
+    "notes": null
+  },
+  {
+    "name": "Thu Ø76-60",
+    "unit": "cái",
+    "unitPrice": 15000,
+    "notes": null
+  },
+  {
+    "name": "Thyistor 160-160 máy từ",
+    "unit": "cái",
+    "unitPrice": 640000,
+    "notes": null
+  },
+  {
+    "name": "Thyistor bán dẫn Y50KPE",
+    "unit": "cái",
+    "unitPrice": 640000,
+    "notes": null
+  },
+  {
+    "name": "Tuốc vít dẹt",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Tuốc vít 4 chấu to",
+    "unit": "cái",
+    "unitPrice": 70000,
+    "notes": null
+  },
+  {
+    "name": "Tuốc vít 2 đầu",
+    "unit": "cái",
+    "unitPrice": 70000,
+    "notes": null
+  },
+  {
+    "name": "Típ 8-27",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Típ 10-34",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Típ 10",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Típ 12",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Típ 13",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Típ 14",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Típ 15",
+    "unit": "cái",
+    "unitPrice": 18000,
+    "notes": null
+  },
+  {
+    "name": "Típ 17",
+    "unit": "cái",
+    "unitPrice": 20000,
+    "notes": null
+  },
+  {
+    "name": "Típ 19",
+    "unit": "cái",
+    "unitPrice": 30000,
+    "notes": null
+  },
+  {
+    "name": "Tấm lợp Brôximăng 1,8m",
+    "unit": "tấm",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Tấm lợp Brôximăng",
+    "unit": "tấm",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Tôn nhựa sống nhỏ",
+    "unit": "tấm",
+    "unitPrice": 65000,
+    "notes": null
+  },
+  {
+    "name": "Tôn sáng 1,2m",
+    "unit": "tấm",
+    "unitPrice": 88000,
+    "notes": null
+  },
+  {
+    "name": "Tôn sáng 1,8m",
+    "unit": "tấm",
+    "unitPrice": 130000,
+    "notes": null
+  },
+  {
+    "name": "Tôn lạnh",
+    "unit": "tấm",
+    "unitPrice": 318182,
+    "notes": null
+  },
+  {
+    "name": "Tô nhựa",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Than cục 4a",
+    "unit": "tấn",
+    "unitPrice": 4100000,
+    "notes": null
+  },
+  {
+    "name": "Than máy mài",
+    "unit": "cặp",
+    "unitPrice": 20000,
+    "notes": null
+  },
+  {
+    "name": "Tay biên hộp số",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Trục tang máy từ",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Ve chặt sắt",
+    "unit": "cái",
+    "unitPrice": 15000,
+    "notes": null
+  },
+  {
+    "name": "Ván",
+    "unit": "m3",
+    "unitPrice": 5200000,
+    "notes": null
+  },
+  {
+    "name": "Ván 3",
+    "unit": "m3",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Van phân thuỷ",
+    "unit": "cái",
+    "unitPrice": 30000,
+    "notes": null
+  },
+  {
+    "name": "Võ bơm 200",
+    "unit": "cái",
+    "unitPrice": 1558000,
+    "notes": null
+  },
+  {
+    "name": "Võ bơm 200 đõi quặng",
+    "unit": "cái",
+    "unitPrice": 697000,
+    "notes": null
+  },
+  {
+    "name": "Võ bơm 200 đõi quặng cao su",
+    "unit": "bộ",
+    "unitPrice": 2200000,
+    "notes": null
+  },
+  {
+    "name": "Võ bơm 230",
+    "unit": "cái",
+    "unitPrice": 1927000,
+    "notes": null
+  },
+  {
+    "name": "Võ bơm 270",
+    "unit": "cái",
+    "unitPrice": 2255000,
+    "notes": null
+  },
+  {
+    "name": "Võ bơm 300 cao su",
+    "unit": "bộ",
+    "unitPrice": 3500000,
+    "notes": null
+  },
+  {
+    "name": "Võ bơm 300 cao su đúc lại lỗ to",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Võ bơm 300 cao su đúc lại lỗ nhỏ",
+    "unit": "bộ",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Võ bơm cấp 300",
+    "unit": "cái",
+    "unitPrice": 3936000,
+    "notes": null
+  },
+  {
+    "name": "Võ bơm 6 lỗ",
+    "unit": "cái",
+    "unitPrice": 386364,
+    "notes": null
+  },
+  {
+    "name": "Võ bơm nước 45kw",
+    "unit": "cái",
+    "unitPrice": 3636000,
+    "notes": null
+  },
+  {
+    "name": "Võ bơm nước 22kw",
+    "unit": "cái",
+    "unitPrice": 1636000,
+    "notes": null
+  },
+  {
+    "name": "Võ bơm nước 11kw",
+    "unit": "cái",
+    "unitPrice": 2600000,
+    "notes": null
+  },
+  {
+    "name": "Võ bơm nước 7,5kw",
+    "unit": "cái",
+    "unitPrice": 612000,
+    "notes": null
+  },
+  {
+    "name": "Võ bơm nước 5,5kw",
+    "unit": "cái",
+    "unitPrice": 527000,
+    "notes": null
+  },
+  {
+    "name": "Võ gang van DN 100",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Võ gang van DN 80",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Vành nghiền",
+    "unit": "cái",
+    "unitPrice": 27225000,
+    "notes": null
+  },
+  {
+    "name": "Vít xoắn 1 phân",
+    "unit": "kg",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Vít xoắn 2 phân",
+    "unit": "kg",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Vít xoắn 3 phân",
+    "unit": "kg",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Vít xoắn 4 phân",
+    "unit": "kg",
+    "unitPrice": 75000,
+    "notes": null
+  },
+  {
+    "name": "Vít nỡ sắt",
+    "unit": "con",
+    "unitPrice": 7000,
+    "notes": null
+  },
+  {
+    "name": "Vít nỡ sắt 12x100",
+    "unit": "con",
+    "unitPrice": 7000,
+    "notes": null
+  },
+  {
+    "name": "Vít xoắn phi1.2m, 3 tầng",
+    "unit": "bộ",
+    "unitPrice": 18000000,
+    "notes": null
+  },
+  {
+    "name": "Vòi xanh Ø10",
+    "unit": "m",
+    "unitPrice": 11000,
+    "notes": null
+  },
+  {
+    "name": "Véc ni cách điện",
+    "unit": "kg",
+    "unitPrice": 115000,
+    "notes": null
+  },
+  {
+    "name": "Van chống sét",
+    "unit": "cái",
+    "unitPrice": 1452000,
+    "notes": null
+  },
+  {
+    "name": "Xăm xe kéo",
+    "unit": "cái",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Xăm xe rùa",
+    "unit": "cái",
+    "unitPrice": 32000,
+    "notes": null
+  },
+  {
+    "name": "Xe rùa",
+    "unit": "cái",
+    "unitPrice": 600000,
+    "notes": null
+  },
+  {
+    "name": "Xăng",
+    "unit": "lít",
+    "unitPrice": 21000,
+    "notes": null
+  },
+  {
+    "name": "Xăng thơm",
+    "unit": "lít",
+    "unitPrice": 36000,
+    "notes": null
+  },
+  {
+    "name": "Xắc xi",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Xốp",
+    "unit": "kg",
+    "unitPrice": 25000,
+    "notes": null
+  },
+  {
+    "name": "Xốp làm bè 40*100*200",
+    "unit": "tấm",
+    "unitPrice": 1200000,
+    "notes": null
+  },
+  {
+    "name": "Xi măng",
+    "unit": "kg",
+    "unitPrice": 1450,
+    "notes": null
+  },
+  {
+    "name": "Xẻng",
+    "unit": "cái",
+    "unitPrice": 50000,
+    "notes": null
+  },
+  {
+    "name": "Xích mở lọc dầu",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Y phi 21",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Y phi 110",
+    "unit": "cái",
+    "unitPrice": null,
+    "notes": null
+  },
+  {
+    "name": "Y phi 168",
+    "unit": "cái",
+    "unitPrice": 80000,
+    "notes": null
+  }
+]
