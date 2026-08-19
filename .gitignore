@@ -18,3 +18,10 @@ dist/
 # Local logs
 *.log
 npm-debug.log*
+firebase-debug.log*
+
+# Local agent configuration
+.agents/
+.claude/
+skills-lock.json
+.firebase/
