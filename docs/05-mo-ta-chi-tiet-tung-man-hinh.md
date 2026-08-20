@@ -53,7 +53,7 @@ Cùng component `Orders`, prop `type` quyết định nhãn + hành vi.
 
 **Mỗi card phiếu:** mã + khách hàng/đối tác + ngày + dự kiến; chip "tên ×SL"; ghi chú. Nút: **Xuất DOCX** · **In phiếu** · (admin) Xóa.
 
-**Biểu mẫu DOCX:** khách hàng `Xí nghiệp khai thác khoáng sản`, `Xí nghiệp khai thác khoáng sản - Vĩnh Tú` và `Xí nghiệp khai thác khoáng sản - Vĩnh Thái` dùng `Phiếu giao nhận vật tư.docx`; các khách hàng còn lại dùng `Phiếu cấp vật tư.docx`. Số phiếu, ngày tháng năm, đơn vị nhận và danh sách vật tư được tự điền. Bản in trình bày theo mẫu `Phieu_ban_giao_vat_tu_PX-MSE2I8PG.docx`.
+**Biểu mẫu DOCX:** khách hàng `Xí nghiệp khai thác khoáng sản`, `Xí nghiệp khai thác khoáng sản - Vĩnh Tú` và `Xí nghiệp khai thác khoáng sản - Vĩnh Thái` dùng `Phiếu giao nhận vật tư.docx`; các khách hàng còn lại dùng `Phiếu cấp vật tư.docx`. Số phiếu, ngày tháng năm, đơn vị nhận và danh sách vật tư được tự điền. Bản in trình bày theo mẫu `Phieu_ban_giao_vat_tu_PX-MSE2I8PG.docx`, cỡ chữ nhỏ và cố định 15 dòng vật tư.
 
 > **Phân quyền xóa:** chỉ user.role === 'admin'.
 
