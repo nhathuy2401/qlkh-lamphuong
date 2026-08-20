@@ -5,5 +5,4 @@ export const navItems = [
   { id: 'inbound', label: 'Nhập kho', icon: 'arrow' },
   { id: 'statistics', label: 'Thống kê', icon: 'chart' },
   { id: 'customers', label: 'Khách hàng', icon: 'users' },
-  { id: 'organization', label: 'Tổ chức', icon: 'settings' },
 ]

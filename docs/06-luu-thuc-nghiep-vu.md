@@ -4,7 +4,7 @@
 > Hạng mục 6/8
 
 ## 6.1 Tạo phiếu nhập / xuất kho (end-to-end)
-Người dùng → /orders/{inbound|outbound} → "Tạo phiếu" → OrderFormDialog: mã phiếu (`order_number`), khách hàng/đối tác, vật tư, số lượng và ghi chú. Với phiếu xuất, chọn khách hàng từ entity `Customer` hoặc bấm **Thêm khách hàng**; lưu `customer_id` và `customer_name` snapshot.
+Người dùng → /orders/{inbound|outbound} → "Tạo phiếu" → form: mã phiếu (`order_number`), khách hàng/đối tác, tìm vật tư theo tên/SKU, thêm nhiều dòng số lượng và ghi chú. Với phiếu xuất, chọn khách hàng từ entity `Customer` hoặc bấm **Thêm khách hàng**; lưu `customer_id` và `customer_name` snapshot.
 
 Lưu theo transaction: `Order.create({...form, completed_date: hôm nay})`; với mỗi item, cập nhật `Product.quantity_on_hand` (+quantity cho Inbound, −quantity cho Outbound), tạo `StockMovement` gắn `order_id`, sau đó tạo `Notification`. Toast thành công và reload các nguồn dữ liệu liên quan.
 

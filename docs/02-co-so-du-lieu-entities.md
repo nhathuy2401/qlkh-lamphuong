@@ -59,19 +59,14 @@ Một phiếu vận động kho. Cùng entity, phân biệt qua `type`.
 > **Tác động phụ khi tạo phiếu** (xem mục 6.1): cập nhật `quantity_on_hand` Product + tạo `StockMovement` + tạo `Notification`.
 
 ## 2.3 Customer (Khách hàng)
-Danh mục khách hàng động, không dùng danh sách cố định theo doanh nghiệp hoặc nhà máy.
+Danh mục khách hàng động, không dùng danh sách cố định. Giao diện chỉ yêu cầu và lưu tên khách hàng.
 
 | Trường | Kiểu | Bắt buộc | Mặc định | Ghi chú |
 |---|---|---|---|---|
 | `name` | string | ✔ | — | Tên khách hàng |
-| `code` | string | – | — | Mã khách hàng |
-| `phone` | string | – | — | Số điện thoại |
-| `address` | string | – | — | Địa chỉ |
-| `tax_code` | string | – | — | Mã số thuế |
-| `notes` | string | – | — | Ghi chú |
-| `status` | enum | – | Active | `Active` \| `Inactive` |
+| `id` | string | ✔ | — | Mã local |
 
-Khách hàng mới được lưu local và xuất hiện ngay trong form tạo phiếu xuất cũng như bộ lọc tìm kiếm. Không cho xóa khách hàng nếu đã có phiếu tham chiếu; có thể chuyển sang `Inactive`.
+Khách hàng mới được lưu local và xuất hiện ngay trong form tạo phiếu xuất cũng như bộ lọc tìm kiếm.
 
 **Quyền local:** admin hoặc warehouse_manager được tạo/sửa/xóa; các role nghiệp vụ được đọc danh sách khách hàng.
 

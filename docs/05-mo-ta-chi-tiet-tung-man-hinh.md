@@ -4,7 +4,7 @@
 > Hạng mục 5/8
 
 ## 5.1 Dashboard (`/` — Tổng quan)
-**Tải dữ liệu song song** (Promise.all): Product (toàn bộ) · Order 50 mới nhất · WarehouseLocation · StockMovement 10 mới nhất.
+**Tải dữ liệu local:** Product (toàn bộ) · Order · StockMovement · Customer; không còn nguồn dữ liệu tổ chức/nhà máy.
 
 **Thẻ chỉ số (StatCard):**
 - *Tổng số lượng*: Σ quantity_on_hand, phụ đề "{n} vật tư"
@@ -20,7 +20,7 @@
 **Trạng thái:** spinner khi loading; empty "Mức tồn kho đều ổn định" / "Chưa có đơn hàng" / "Chưa có hoạt động".
 
 ## 5.2 Inventory (`/inventory` — Kho hàng)
-**Bảng:** Tên+SKU · ĐVT · SL (đỏ nếu ≤ reorder_point) · Đơn giá (ẩn < lg) · Ghi chú (ẩn < md) · cột [sửa][xóa].
+**Bảng:** Tên+SKU · ĐVT · Số lượng tồn (mặc định 0, đỏ nếu ≤ reorder_point) · Đơn giá · Ghi chú · cột [sửa][xóa].
 **Tìm kiếm:** theo name/SKU (client filter).
 **Thêm/Sửa:** ProductFormDialog modal → Product.create/update → toast → reload.
 **Xóa:** Product.delete → toast → reload.
@@ -30,13 +30,14 @@
 ## 5.3 Orders (`/orders/inbound` & `/orders/outbound`)
 Cùng component `Orders`, prop `type` quyết định nhãn + hành vi.
 
-**Tạo phiếu (OrderFormDialog):**
-1. Order.create({...form, completed_date: hôm nay})
-2. applyCompletion — cho mỗi item:
+**Tạo phiếu:**
+1. Chọn/tìm vật tư theo tên hoặc SKU, thêm nhiều dòng vật tư và số lượng.
+2. Order.create({...form, items, completed_date: hôm nay})
+3. applyCompletion — cho mỗi item:
    - Product.get → tính delta (+q nếu Inbound / −q nếu Outbound, floor 0) → Product.update
    - StockMovement.create (Received | Shipped) gắn order_id
-3. Notification.create (inbound | outbound)
-4. Toast + reload
+4. Notification.create (inbound | outbound)
+5. Toast + reload
 
 **Tìm kiếm và lọc (đặc biệt đầy đủ ở Outbound):**
 - Tìm tự do theo số phiếu, tên/mã vật tư, tên khách hàng/đối tác.

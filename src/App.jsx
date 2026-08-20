@@ -4,7 +4,6 @@ import { Login } from './components/auth/Login'
 import { Dashboard } from './components/dashboard/Dashboard'
 import { CustomerManager } from './components/customers/CustomerManager'
 import { Inventory } from './components/inventory/Inventory'
-import { Organization } from './components/organization/Organization'
 import { Orders } from './components/orders/Orders'
 import { Shell } from './components/layout/Shell'
 import { Statistics } from './components/statistics/Statistics'
@@ -17,7 +16,6 @@ const pages = {
   inbound: (props) => <Orders {...props} type="Inbound" />,
   statistics: Statistics,
   customers: CustomerManager,
-  organization: Organization,
 }
 
 const App = observer(() => {

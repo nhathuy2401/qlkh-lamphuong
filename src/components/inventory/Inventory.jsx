@@ -45,9 +45,9 @@ export const Inventory = observer(({ store }) => {
           <div className="search-box"><Icon name="search" /><input value={search} onChange={event => setSearch(event.target.value)} placeholder="Tìm tên vật tư" /></div>
         </div>
         <div className="table-wrap">
-          <table><thead><tr><th>STT</th><th>Tên vật tư</th><th>DVT</th><th>Đơn giá</th><th>Ghi chú</th><th /></tr></thead>
+          <table><thead><tr><th>STT</th><th>Tên vật tư</th><th>DVT</th><th>Số lượng tồn</th><th>Đơn giá</th><th>Ghi chú</th><th /></tr></thead>
             <tbody>{products.map((product, index) => <tr key={product.id}>
-              <td>{index + 1}</td><td><b>{product.name}</b></td><td>{product.unit}</td><td>{money(product.unitPrice)}</td><td>{product.notes || '—'}</td>
+              <td>{index + 1}</td><td><b>{product.name}</b><small>{product.sku}</small></td><td>{product.unit}</td><td><b className={product.quantity <= product.reorderPoint ? 'danger-text' : ''}>{product.quantity.toLocaleString('vi-VN')}</b></td><td>{money(product.unitPrice)}</td><td>{product.notes || '—'}</td>
               <td><button className="icon-button" title="Cập nhật vật tư" onClick={() => setEditingProduct({ ...product })}><Icon name="settings" /></button><button className="icon-button danger-hover" title="Xóa vật tư" onClick={() => remove(product.id)}><Icon name="trash" /></button></td>
             </tr>)}</tbody>
           </table>

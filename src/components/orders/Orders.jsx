@@ -17,7 +17,7 @@ export const Orders = observer(({ type, store }) => {
     const searchable = `${order.orderNumber} ${order.customerName} ${order.partnerName} ${order.items.map(item => `${item.productName} ${item.sku}`).join(' ')}`.toLowerCase()
     if (query && !searchable.includes(query)) return false
     if (filters.customerId && order.customerId !== filters.customerId) return false
-    if (filters.product && !order.items.some(item => `${item.productName} ${item.sku}`.toLowerCase().includes(filters.product.toLowerCase()))) return false
+    if (filters.product && !order.items.some(item => `${item.productName} ${item.sku}`.toLowerCase().includes(filters.product.toLowerCase().trim()))) return false
     if (filters.dateMode === 'date' && order.date !== filters.date) return false
     if (filters.dateMode === 'month' && !order.date.startsWith(filters.date)) return false
     if (filters.dateMode === 'year' && !order.date.startsWith(filters.date)) return false
