@@ -1,12 +1,23 @@
 import { makeAutoObservable } from 'mobx'
 import { DATA_KEY, loadSession, saveSession, uid } from '../lib/utils'
 import masterMaterials from '../data/materials.json'
+import defaultCustomers from '../data/customers.json'
 
 const seedData = () => {
   const products = []
+  const customers = defaultCustomers.map(customer => ({ id: uid('customer'), name: customer.name, status: 'Active' }))
   return {
-    customers: [], products, orders: [], movements: [], notifications: [], audit: [],
+    customers, products, orders: [], movements: [], notifications: [], audit: [],
   }
+}
+
+const ensureDefaultCustomers = data => {
+  const customers = data.customers || []
+  const knownNames = new Set(customers.map(customer => customer.name.trim().toLowerCase()))
+  const missingCustomers = defaultCustomers
+    .filter(customer => !knownNames.has(customer.name.toLowerCase()))
+    .map(customer => ({ id: uid('customer'), name: customer.name, status: 'Active' }))
+  return missingCustomers.length ? { ...data, customers: [...customers, ...missingCustomers] } : { ...data, customers }
 }
 
 const legacyProductSkus = ['DTH-046', 'VB-6205', 'GT-001']
@@ -35,12 +46,12 @@ const loadData = () => {
   try {
     const stored = JSON.parse(localStorage.getItem(DATA_KEY))
     if (stored) {
-      const migrated = ensureMasterProducts(stored)
+      const migrated = ensureDefaultCustomers(ensureMasterProducts(stored))
       localStorage.setItem(DATA_KEY, JSON.stringify(migrated))
       return migrated
     }
   } catch { /* fallback below */ }
-  const initial = ensureMasterProducts(seedData())
+  const initial = ensureDefaultCustomers(ensureMasterProducts(seedData()))
   localStorage.setItem(DATA_KEY, JSON.stringify(initial))
   return initial
 }
@@ -68,7 +79,7 @@ export class AppStore {
       }
       return {
         ...data,
-        products: [...data.products, { ...form, id: uid('product'), sku, quantity: 0, reorderPoint: 10, unitPrice: Number(form.unitPrice), notes: form.notes?.trim() || '' }],
+        products: [...data.products, { ...form, id: uid('product'), sku, quantity: Math.max(0, Number(form.quantity) || 0), reorderPoint: 10, unitPrice: Number(form.unitPrice) || 0, notes: form.notes?.trim() || '' }],
       }
     })
   }
@@ -92,8 +103,6 @@ export class AppStore {
   createOrder({ type, form, items }) {
     const lines = (items || []).map(line => ({ product: this.data.products.find(item => item.id === line.productId), quantity: Number(line.quantity) })).filter(line => line.product && line.quantity > 0)
     if (!lines.length || (type === 'Outbound' && !form.customerId)) return { error: 'Vui lòng chọn khách hàng và ít nhất một vật tư hợp lệ.' }
-    const invalidLine = lines.find(({ product, quantity }) => type === 'Outbound' && quantity > product.quantity)
-    if (invalidLine) return { error: `${invalidLine.product.name}: tồn hiện tại chỉ còn ${invalidLine.product.quantity} ${invalidLine.product.unit}.` }
     const customer = this.data.customers.find(item => item.id === form.customerId)
     const order = { id: uid('order'), orderNumber: form.orderNumber, type, customerId: type === 'Outbound' ? form.customerId : '', customerName: type === 'Outbound' ? customer?.name || '' : '', partnerName: type === 'Inbound' ? form.partnerName : '', date: form.date, notes: form.notes, items: lines.map(({ product, quantity }) => ({ productId: product.id, productName: product.name, sku: product.sku, quantity, unit: product.unit, unitPrice: product.unitPrice })) }
     this.update(data => ({
@@ -112,7 +121,7 @@ export class AppStore {
     if (!order) return
     this.update(data => ({
       ...data,
-      products: data.products.map(product => { const item = order.items.find(line => line.productId === product.id); if (!item) return product; return { ...product, quantity: Math.max(0, product.quantity + (order.type === 'Inbound' ? -item.quantity : item.quantity)) } }),
+      products: data.products.map(product => { const item = order.items.find(line => line.productId === product.id); if (!item) return product; return { ...product, quantity: product.quantity + (order.type === 'Inbound' ? -item.quantity : item.quantity) } }),
       orders: data.orders.filter(item => item.id !== id),
       movements: data.movements.filter(item => item.orderId !== id),
       notifications: data.notifications.filter(item => item.orderId !== id),

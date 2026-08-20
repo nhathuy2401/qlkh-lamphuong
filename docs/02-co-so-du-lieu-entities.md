@@ -17,7 +17,7 @@ Quy ước viết tắt quyền: `chủ` = người tạo bản ghi; `QM` = ware
 |---|---|---|---|---|
 | `name` | string | ✔ | — | Tên vật tư |
 | `sku` | string | ✔ | — | Mã số / SKU |
-| `unit` | enum | – | "Cái" | 27 ĐVT: Bộ, Cái, Khối, Tấn, Kg, Tấm, Cuộn, Con, Cây, Mét, Mét khối, Mét vuông, Sợi, Lít, Viên, Hộp, Cặp, Gói, Xô, Đôi, Ổ, Thanh, Tờ, Bình, Ống, Chai, Lon |
+| `unit` | string | – | "cái" | Chọn từ danh sách đơn vị phổ biến hoặc nhập tùy chỉnh |
 | `quantity_on_hand` | number | – | 0 | Tồn kho hiện tại — bị cập nhật tự động khi tạo phiếu |
 | `reorder_point` | number | – | 10 | Ngưỡng cảnh báo tồn thấp |
 | `unit_price` | number | – | 0 | Đơn giá — dùng tính giá trị kho & dòng tiền |
@@ -66,7 +66,7 @@ Danh mục khách hàng động, không dùng danh sách cố định. Giao di�
 | `name` | string | ✔ | — | Tên khách hàng |
 | `id` | string | ✔ | — | Mã local |
 
-Khách hàng mới được lưu local và xuất hiện ngay trong form tạo phiếu xuất cũng như bộ lọc tìm kiếm.
+Khách hàng mặc định được nạp từ `src/data/customers.json`. Khách hàng mới được lưu local và xuất hiện ngay trong form tạo phiếu xuất cũng như bộ lọc tìm kiếm; dữ liệu mới được giữ cùng danh sách mặc định.
 
 **Quyền local:** admin hoặc warehouse_manager được tạo/sửa/xóa; các role nghiệp vụ được đọc danh sách khách hàng.
 

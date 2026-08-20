@@ -34,7 +34,7 @@ Cùng component `Orders`, prop `type` quyết định nhãn + hành vi.
 1. Chọn/tìm vật tư theo tên hoặc SKU, thêm nhiều dòng vật tư và số lượng.
 2. Order.create({...form, items, completed_date: hôm nay})
 3. applyCompletion — cho mỗi item:
-   - Product.get → tính delta (+q nếu Inbound / −q nếu Outbound, floor 0) → Product.update
+   - Product.get → tính delta (+q nếu Inbound / −q nếu Outbound) → Product.update; phiếu xuất không bị chặn khi tồn không đủ, tồn có thể âm.
    - StockMovement.create (Received | Shipped) gắn order_id
 4. Notification.create (inbound | outbound)
 5. Toast + reload
