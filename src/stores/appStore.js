@@ -87,7 +87,7 @@ export class AppStore {
     this.update(data => ({
       ...data,
       products: data.products.map(product => product.id === id
-        ? { ...product, name: form.name.trim(), unit: form.unit, unitPrice: Number(form.unitPrice), notes: form.notes?.trim() || '' }
+        ? { ...product, name: form.name.trim(), unit: form.unit, quantity: Number.isFinite(Number(form.quantity)) ? Number(form.quantity) : product.quantity, unitPrice: Number(form.unitPrice) || 0, notes: form.notes?.trim() || '' }
         : product),
     }))
   }

@@ -11,6 +11,7 @@
   "dependencies": {
     "@vitejs/plugin-react": "latest",
     "firebase": "^12.17.1",
+    "jszip": "^3.10.1",
     "mobx": "^7.0.0",
     "mobx-react-lite": "^5.0.0",
     "react": "latest",

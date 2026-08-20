@@ -51,7 +51,9 @@ Cùng component `Orders`, prop `type` quyết định nhãn + hành vi.
 - *(Outbound)* *Xuất Word tất cả* (exportPhieuWordBulk): gộp + page-break
 - *(Outbound)* *In tất cả* (printPhieuBulk)
 
-**Mỗi card phiếu:** mã + khách hàng/đối tác + ngày + dự kiến; chip "tên ×SL"; ghi chú. Nút: Xuất Excel đơn · (Outbound) Phiếu VT (Word) · In · (admin) Xóa.
+**Mỗi card phiếu:** mã + khách hàng/đối tác + ngày + dự kiến; chip "tên ×SL"; ghi chú. Nút: **Xuất DOCX** · **In phiếu** · (admin) Xóa.
+
+**Biểu mẫu DOCX:** khách hàng `Xí nghiệp khai thác khoáng sản`, `Xí nghiệp khai thác khoáng sản - Vĩnh Tú` và `Xí nghiệp khai thác khoáng sản - Vĩnh Thái` dùng `Phiếu giao nhận vật tư.docx`; các khách hàng còn lại dùng `Phiếu cấp vật tư.docx`. Số phiếu, ngày tháng năm, đơn vị nhận và danh sách vật tư được tự điền. Bản in trình bày theo mẫu `Phieu_ban_giao_vat_tu_PX-MSE2I8PG.docx`.
 
 > **Phân quyền xóa:** chỉ user.role === 'admin'.
 

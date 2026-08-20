@@ -1,4 +1,4 @@
-const CACHE = 'qlkh-shell-v2'
+const CACHE = 'qlkh-shell-v3'
 self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(['/', '/index.html', '/manifest.webmanifest'])))
   self.skipWaiting()

@@ -6,6 +6,7 @@ export function ProductFormDialog({ product, onCancel, onSave }) {
   const [form, setForm] = useState({
     name: product.name,
     unit: product.unit,
+    quantity: product.quantity,
     unitPrice: product.unitPrice,
     notes: product.notes || '',
   })
@@ -25,6 +26,7 @@ export function ProductFormDialog({ product, onCancel, onSave }) {
       <form className="form-grid" onSubmit={submit}>
         <label className="span-2">Tên vật tư<input required value={form.name} onChange={event => update('name', event.target.value)} /></label>
         <label>Đơn vị tính<UnitField value={form.unit} onChange={value => update('unit', value)} /></label>
+        <label>Số lượng<input type="number" step="any" value={form.quantity} onChange={event => update('quantity', event.target.value)} /></label>
         <label>Đơn giá<input type="number" min="0" value={form.unitPrice} onChange={event => update('unitPrice', event.target.value)} /></label>
         <label className="span-2">Ghi chú<input value={form.notes} onChange={event => update('notes', event.target.value)} placeholder="Ghi chú về vật tư" /></label>
         <div className="modal-actions span-2"><button type="button" className="button subtle" onClick={onCancel}>Hủy</button><button className="button primary"><Icon name="settings" /> Lưu thay đổi</button></div>

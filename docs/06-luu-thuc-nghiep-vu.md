@@ -39,6 +39,9 @@ Xuất Excel (exportMovementsToExcel)
 Không được chỉ xóa Order. Nếu còn movement không có Order tương ứng, migration/cleanup phải xóa movement mồ côi trước khi tính biểu đồ. Sau khi xóa thành công, phiếu không được xuất hiện trong tìm kiếm, lịch sử biến động, sao lưu hoặc bất kỳ biểu đồ nào.
 
 ## 6.5 Xuất chứng từ in ấn (chỉ Outbound)
+
+Phiên bản local hỗ trợ xuất DOCX và in trực tiếp trên từng phiếu. Template được chọn theo khách hàng: ba xí nghiệp khoáng sản dùng mẫu bàn giao; các đơn vị còn lại dùng mẫu cấp vật tư. Số phiếu, ngày tháng năm, đơn vị nhận và toàn bộ `items[]` được điền tự động.
+
 Phiếu đơn:
 
 Xuất Excel (exportOrderToExcel): 2 sheet
