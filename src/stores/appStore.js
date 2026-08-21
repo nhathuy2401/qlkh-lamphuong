@@ -4,18 +4,20 @@ import { callFunction, findUserByEmail, hashPassword, resetData, subscribeAudit,
 import { uid } from '../lib/utils'
 
 const SESSION_KEY = 'qlkh-firestore-session-v1'
+const SESSION_TTL = 7 * 24 * 60 * 60 * 1000
 
 export class AppStore {
   data = resetData(); audit = []; accounts = []; session = null; nav = 'dashboard'; authReady = false; loading = false; connected = false; error = ''
-  unsubscribeWarehouse = null; unsubscribeAudit = null; unsubscribeConnection = null
+  unsubscribeWarehouse = null; unsubscribeAudit = null; unsubscribeConnection = null; sessionExpiryTimer = null
 
-  constructor() { makeAutoObservable(this, { unsubscribeWarehouse: false, unsubscribeAudit: false, unsubscribeConnection: false }) }
+  constructor() { makeAutoObservable(this, { unsubscribeWarehouse: false, unsubscribeAudit: false, unsubscribeConnection: false, sessionExpiryTimer: false }) }
 
   initializeAuth() {
     if (!firebaseConfigured) { this.authReady = true; this.error = 'Firestore chưa được cấu hình. Hãy tạo file .env.local từ .env.example.'; return () => {} }
     try {
       const saved = JSON.parse(localStorage.getItem(SESSION_KEY) || 'null')
-      if (saved?.uid && !saved.disabled) { this.session = saved; this.startSync() }
+      if (saved?.uid && saved.expiresAt > Date.now() && !saved.disabled) { this.session = saved; this.scheduleSessionExpiry(); this.startSync() }
+      else if (saved) localStorage.removeItem(SESSION_KEY)
     } catch { localStorage.removeItem(SESSION_KEY) }
     this.authReady = true
     return () => {}
@@ -29,17 +31,18 @@ export class AppStore {
   }
 
   stopSync() { this.unsubscribeWarehouse?.(); this.unsubscribeAudit?.(); this.unsubscribeConnection?.(); this.unsubscribeWarehouse = null; this.unsubscribeAudit = null; this.unsubscribeConnection = null }
+  scheduleSessionExpiry() { clearTimeout(this.sessionExpiryTimer); const remaining = this.session?.expiresAt - Date.now(); if (remaining > 0) this.sessionExpiryTimer = setTimeout(() => this.logout(), remaining) }
   setNav(value) { this.nav = value }
 
   async login({ email, password }) {
     if (!firebaseConfigured) throw new Error('Firestore chưa được cấu hình.')
     const user = await findUserByEmail(email); if (!user || user.passwordHash !== await hashPassword(password)) throw new Error('Email hoặc mật khẩu chưa đúng.')
     if (user.disabled) throw new Error('Tài khoản đã bị khóa.')
-    this.session = { uid: user.id, email: user.email, displayName: user.displayName || user.email, role: user.role || 'user', disabled: false }
+    this.session = { uid: user.id, email: user.email, displayName: user.displayName || user.email, role: user.role || 'user', disabled: false, accessToken: crypto.randomUUID?.() || `session_${Math.random().toString(36).slice(2)}`, expiresAt: Date.now() + SESSION_TTL }
     localStorage.setItem(SESSION_KEY, JSON.stringify(this.session)); this.error = ''; this.startSync()
   }
 
-  async logout() { this.stopSync(); this.session = null; this.data = resetData(); this.audit = []; this.accounts = []; localStorage.removeItem(SESSION_KEY) }
+  async logout() { clearTimeout(this.sessionExpiryTimer); this.sessionExpiryTimer = null; this.stopSync(); this.session = null; this.data = resetData(); this.audit = []; this.accounts = []; localStorage.removeItem(SESSION_KEY) }
   async changePassword(currentPassword, newPassword) { return callFunction('changePassword', { currentPassword, newPassword, requestId: uid('request') }, this.actor()) }
   get isSuperAdmin() { return this.session?.role === 'super_admin' }
   canCreateCustomer() { return this.isSuperAdmin }
