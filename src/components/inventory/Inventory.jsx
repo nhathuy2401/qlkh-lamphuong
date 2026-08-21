@@ -15,25 +15,41 @@ export const Inventory = observer(({ store }) => {
   const [page, setPage] = useState(1)
   const [form, setForm] = useState(emptyProduct)
   const [editingProduct, setEditingProduct] = useState(null)
+  const [error, setError] = useState('')
+  const [saving, setSaving] = useState(false)
   const products = store.data.products.filter(product => `${product.name} ${product.sku}`.toLowerCase().includes(search.toLowerCase()))
   const totalPages = Math.max(1, Math.ceil(products.length / ITEMS_PER_PAGE))
   const currentPage = Math.min(page, totalPages)
   const visibleProducts = products.slice((currentPage - 1) * ITEMS_PER_PAGE, currentPage * ITEMS_PER_PAGE)
 
-  const add = event => {
+  const add = async event => {
     event.preventDefault()
     if (!form.name.trim()) return
-    store.addProduct(form)
-    setForm(emptyProduct)
+    setSaving(true)
+    try {
+      await store.addProduct(form)
+      setForm(emptyProduct)
+      setError('')
+    } catch (saveError) {
+      setError(saveError.message || 'Không thể thêm vật tư.')
+    } finally {
+      setSaving(false)
+    }
   }
-  const remove = id => { if (confirm('Xóa vật tư này?')) store.removeProduct(id) }
-  const saveProduct = values => {
-    store.updateProduct(editingProduct.id, values)
-    setEditingProduct(null)
+  const remove = async id => {
+    if (!confirm('Xóa vật tư này?')) return
+    try { await store.removeProduct(id); setError('') } catch (removeError) { setError(removeError.message || 'Không thể xóa vật tư.') }
+  }
+  const saveProduct = async values => {
+    try {
+      await store.updateProduct(editingProduct.id, values)
+      setEditingProduct(null)
+      setError('')
+    } catch (saveError) { setError(saveError.message || 'Không thể cập nhật vật tư.') }
   }
 
   return <>
-    <PageHeader eyebrow="KHO VẬT TƯ" title="Danh mục vật tư" description="Theo dõi tồn kho và mức cảnh báo ngay trên thiết bị." />
+    <PageHeader eyebrow="KHO VẬT TƯ" title="Danh mục vật tư" description="Theo dõi tồn kho và mức cảnh báo realtime." />{error && <div className="alert danger document-alert">{error}</div>}
     <div className="two-col">
       <section className="panel">
         <div className="panel-heading"><div><h3>Thêm vật tư</h3><span>Master data của kho</span></div></div>
@@ -43,7 +59,7 @@ export const Inventory = observer(({ store }) => {
           <label>Số lượng ban đầu<input type="number" min="0" value={form.quantity} onChange={event => setForm({ ...form, quantity: event.target.value })} /></label>
           <label>Đơn giá<input type="number" min="0" value={form.unitPrice} onChange={event => setForm({ ...form, unitPrice: event.target.value })} /></label>
           <label className="span-2">Ghi chú<input value={form.notes} onChange={event => setForm({ ...form, notes: event.target.value })} placeholder="Ghi chú về vật tư" /></label>
-          <button className="button primary span-2"><Icon name="plus" /> Thêm vật tư</button>
+          <button disabled={saving} className="button primary span-2"><Icon name="plus" /> {saving ? 'Đang lưu…' : 'Thêm vật tư'}</button>
         </form>
       </section>
       <section className="panel">

@@ -1,0 +1,68 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "warehouses": {
+      "$warehouseId": {
+        ".read": "auth != null",
+        ".write": false,
+        "products": {
+          ".read": "auth != null",
+          ".write": false,
+          ".indexOn": ["sku", "name", "updatedAt"]
+        },
+        "customers": {
+          ".read": "auth != null",
+          ".write": false,
+          ".indexOn": ["name", "status", "updatedAt"]
+        },
+        "orders": {
+          ".read": "auth != null",
+          ".write": false,
+          ".indexOn": ["type", "date", "customerId", "createdAt"]
+        },
+        "orderItems": {
+          ".read": "auth != null",
+          ".write": false
+        },
+        "stockMovements": {
+          ".read": "auth != null",
+          ".write": false,
+          ".indexOn": ["orderId", "productId", "date", "createdAt"]
+        },
+        "notifications": {
+          ".read": "auth != null",
+          ".write": false,
+          ".indexOn": ["createdAt", "orderId"]
+        },
+        "inventoryBalances": {
+          ".read": "auth != null",
+          ".write": false
+        }
+      }
+    },
+    "profiles": {
+      "$uid": {
+        ".read": "auth != null && (auth.uid === $uid || auth.token.role === 'super_admin')",
+        ".write": false
+      }
+    },
+    "auditLogs": {
+      ".read": "auth != null && auth.token.role === 'super_admin'",
+      ".write": false,
+      ".indexOn": ["actorUid", "actorRoleAtTime", "action", "targetType", "createdAt"]
+    },
+    "auditOutbox": {
+      ".read": false,
+      ".write": false
+    },
+    "operations": {
+      ".read": false,
+      ".write": false
+    },
+    "indexes": {
+      ".read": "auth != null",
+      ".write": false
+    }
+  }
+}

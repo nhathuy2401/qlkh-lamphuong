@@ -206,15 +206,37 @@ const downloadBlob = (blob, filename) => {
   setTimeout(() => URL.revokeObjectURL(url), 1000)
 }
 
-export async function exportOrderDocx(order) {
+export async function createOrderDocxBlob(order) {
   const response = await fetch(templateFor(order))
   if (!response.ok) throw new Error('Không tải được file biểu mẫu.')
   const zip = await JSZip.loadAsync(await response.arrayBuffer())
   const xml = await zip.file('word/document.xml').async('text')
   zip.file('word/document.xml', updateDocumentXml(xml, order))
-  const blob = await zip.generateAsync({ type: 'blob', mimeType: 'application/vnd.openxmlformats-officedocument.wordprocessingml.document' })
+  return zip.generateAsync({ type: 'blob', mimeType: 'application/vnd.openxmlformats-officedocument.wordprocessingml.document' })
+}
+
+export async function exportOrderDocx(order) {
+  const blob = await createOrderDocxBlob(order)
   const suffix = isReceiptOrder(order) ? 'phieu-ban-giao-vat-tu' : 'phieu-cap-vat-tu'
   downloadBlob(blob, `${safeFilename(order.orderNumber)}-${suffix}.docx`)
+}
+
+const folderDate = value => {
+  const [year, month, day] = String(value || '').split('-')
+  return [day, month, year].filter(Boolean).join('-') || 'khong-ngay'
+}
+
+export async function exportAllOrdersDocx(orders, type) {
+  if (!orders.length) throw new Error('Không có hóa đơn nào để tải xuống.')
+  const archive = new JSZip()
+  for (const order of orders) {
+    const blob = await createOrderDocxBlob(order)
+    const suffix = isReceiptOrder(order) ? 'phieu-ban-giao-vat-tu' : 'phieu-cap-vat-tu'
+    archive.file(`${folderDate(order.date)}---hoa-don/${safeFilename(order.orderNumber)}-${suffix}.docx`, blob)
+  }
+  const archiveBlob = await archive.generateAsync({ type: 'blob', mimeType: 'application/zip' })
+  const label = type === 'Outbound' ? 'phieu-xuat-kho' : 'phieu-nhap-kho'
+  downloadBlob(archiveBlob, `${label}---${folderDate(new Date().toISOString().slice(0, 10))}.zip`)
 }
 
 export function printOrder(order) {
@@ -234,5 +256,24 @@ export function printOrder(order) {
   const logoStyle = printWindow.document.createElement('style')
   logoStyle.textContent = 'header>div:first-child::before{content:"";display:inline-block;width:24px;height:28px;margin-right:6px;vertical-align:middle;background:url("/assets/logo-qmc.jpeg") center/contain no-repeat}'
   printWindow.document.head.appendChild(logoStyle)
+  printWindow.document.close()
+}
+
+export function printAllOrders(orders, type) {
+  if (!orders.length) throw new Error('Không có hóa đơn nào để in.')
+  const sheets = orders.map(order => {
+    const printableItems = (order.items || []).slice(0, MAX_PRINT_ROWS)
+    const rows = Array.from({ length: MAX_PRINT_ROWS }, (_, index) => {
+      const item = printableItems[index]
+      return item ? `<tr><td>${index + 1}</td><td>${htmlEscape(item.productName)}</td><td>${htmlEscape(item.sku || '')}</td><td>${htmlEscape(item.unit || '')}</td><td>${htmlEscape(item.quantity)}</td><td></td></tr>` : '<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>'
+    }).join('')
+    const title = formTitleFor(order)
+    return `<section class="order-sheet"><header><div>CÔNG TY CỔ PHẦN<br>KHOÁNG SẢN QUẢNG TRỊ</div><div>CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM<br><em>Độc lập – Tự do – Hạnh phúc</em></div></header><div class="number">Số: ${htmlEscape(order.orderNumber)}/${isReceiptOrder(order) ? 'PBGVT-KSQT' : 'PCVT-KSQT'} — ${dateLong(order.date)}</div><div class="title">${title}</div><div class="meta">- Đơn vị nhận vật tư: ${htmlEscape(order.customerName || order.partnerName || '')}<br>- Người nhận:<br>- Căn cứ giao nhận: ${htmlEscape(order.notes || '')}</div><table><thead><tr><th>STT</th><th>Tên vật tư</th><th>Mã số</th><th>ĐVT</th><th>Số lượng</th><th>Ghi chú</th></tr></thead><tbody>${rows}</tbody></table><div class="signatures"><div>${isReceiptOrder(order) ? 'BÊN NHẬN VẬT TƯ' : 'NGƯỜI LẬP'}<span></span></div><div>${isReceiptOrder(order) ? 'BÊN GIAO VẬT TƯ' : 'PHÒNG KH-KT'}<span></span></div><div>${isReceiptOrder(order) ? 'DUYỆT' : 'GIÁM ĐỐC'}<span></span></div></div></section>`
+  }).join('')
+  const printWindow = window.open('', '_blank')
+  if (!printWindow) throw new Error('Trình duyệt đang chặn cửa sổ in. Hãy cho phép popup cho trang này.')
+  const label = type === 'Outbound' ? 'phiếu xuất kho' : 'phiếu nhập kho'
+  printWindow.document.open()
+  printWindow.document.write(`<!doctype html><html lang="vi"><head><meta charset="utf-8"><title>In tất cả ${label}</title><style>@page{size:A4;margin:15mm 14mm}*{box-sizing:border-box}body{font-family:"Times New Roman",serif;color:#000;font-size:11px;margin:0}.order-sheet{page-break-after:always}.order-sheet:last-child{page-break-after:auto}header{display:grid;grid-template-columns:1fr 1fr;text-align:center;font-weight:700;line-height:1.25}header em{font-weight:400}.number{margin-top:10px;font-style:italic}.title{text-align:center;font-size:16px;font-weight:700;margin:8px 0 12px}.meta{line-height:1.45;margin-bottom:8px}table{width:100%;border-collapse:collapse;table-layout:fixed}th,td{border:1px solid #000;padding:3px 4px;height:20px;vertical-align:middle}th{font-weight:700;text-align:center}td{text-align:center}td:nth-child(2){text-align:left;width:30%}th:nth-child(1),td:nth-child(1){width:7%}th:nth-child(2){width:30%}th:nth-child(3){width:13%}th:nth-child(4){width:10%}th:nth-child(5){width:12%}th:nth-child(6){width:28%}.signatures{display:grid;grid-template-columns:repeat(3,1fr);text-align:center;margin-top:16px;font-weight:700;min-height:85px}.signatures span{display:block;margin-top:38px}</style></head><body>${sheets}<script>window.onload=()=>{window.focus();window.print()}</script></body></html>`)
   printWindow.document.close()
 }

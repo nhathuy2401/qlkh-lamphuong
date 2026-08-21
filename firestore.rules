@@ -1,0 +1,21 @@
+rules_version = '2';
+
+// Public Firestore theo yêu cầu người dùng. Dữ liệu vẫn có thể bị đọc/sửa
+// bởi client bất kỳ; riêng super_admin được giữ không bị khóa/demote/xóa.
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /users/{userId} {
+      allow read, create: if true;
+      allow update: if resource.data.role != 'super_admin' ||
+        (request.resource.data.role == 'super_admin' && request.resource.data.disabled == false);
+      allow delete: if resource.data.role != 'super_admin';
+    }
+
+    match /products/{documentId} { allow read, write: if true; }
+    match /customers/{documentId} { allow read, write: if true; }
+    match /orders/{documentId} { allow read, write: if true; }
+    match /movements/{documentId} { allow read, write: if true; }
+    match /notifications/{documentId} { allow read, write: if true; }
+    match /auditLogs/{documentId} { allow read, write: if true; }
+  }
+}
