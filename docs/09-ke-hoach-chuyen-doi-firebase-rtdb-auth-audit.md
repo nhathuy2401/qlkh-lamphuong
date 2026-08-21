@@ -4,7 +4,7 @@
 > Phạm vi thực thi: React/Vite PWA hiện tại và Cloud Firestore Standard, không sử dụng Firebase Authentication
 > Mục tiêu chính: đồng bộ dữ liệu nhiều thiết bị, phân quyền thật ở backend, thêm quản lý tài khoản và lịch sử thao tác dành cho `super_admin`
 
-> Cập nhật implementation: đã tạo Web App `QLKH Web`, chuyển client sang Firestore SDK, deploy public Firestore rules/indexes và frontend Hosting tại `https://qlkh-lamuong.web.app`. Đã seed 1.294 vật tư, 9 khách hàng và tài khoản `super_admin` `admin@qlkh.local` với mật khẩu `Admin@123456`.
+> Cập nhật implementation: đã tạo Web App `QLKH Web`, chuyển client sang Firestore SDK, deploy public Firestore rules/indexes và frontend Hosting tại `https://qlkh-qmc.web.app`. Đã seed 1.294 vật tư, 9 khách hàng và tài khoản `super_admin` `admin@qlkh.local` với mật khẩu `Admin@123456`.
 
 > **Quyết định thực thi cuối cùng:** Firestore public, không Firebase Authentication, không Cloud Functions. Collection `users` chứa thông tin đăng nhập/role và session được giữ ở trình duyệt. Đây là mô hình tin cậy frontend theo yêu cầu; bất kỳ người nào có Firebase config đều có thể đọc/ghi dữ liệu và tự sửa role. Các phần thiết kế Auth/RTDB/Cloud Functions bên dưới được giữ làm lịch sử phương án an toàn, không còn là kiến trúc đang chạy.
 
