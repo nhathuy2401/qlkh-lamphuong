@@ -36,7 +36,7 @@ const App = observer(() => {
   if (!appStore.session) return <Login onLogin={credentials => appStore.login(credentials)} />
   const adminPage = appStore.nav === 'accounts' || appStore.nav === 'admin-audit'
   const Page = adminPage && !appStore.isSuperAdmin ? Dashboard : pages[appStore.nav] || Dashboard
-  return <Shell nav={appStore.nav} session={appStore.session} connected={appStore.connected} error={appStore.error} onNavigate={nav => appStore.setNav(nav)} onLogout={() => appStore.logout()}><Page store={appStore} /></Shell>
+  return <Shell store={appStore} nav={appStore.nav} session={appStore.session} connected={appStore.connected} error={appStore.error} onNavigate={nav => appStore.setNav(nav)} onLogout={() => appStore.logout()}><Page store={appStore} /></Shell>
 })
 
 export default App

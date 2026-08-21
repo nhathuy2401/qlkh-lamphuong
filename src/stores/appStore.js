@@ -40,6 +40,7 @@ export class AppStore {
   }
 
   async logout() { this.stopSync(); this.session = null; this.data = resetData(); this.audit = []; this.accounts = []; localStorage.removeItem(SESSION_KEY) }
+  async changePassword(currentPassword, newPassword) { return callFunction('changePassword', { currentPassword, newPassword, requestId: uid('request') }, this.actor()) }
   get isSuperAdmin() { return this.session?.role === 'super_admin' }
   canCreateCustomer() { return this.isSuperAdmin }
   canAccessAdminPages() { return this.isSuperAdmin }

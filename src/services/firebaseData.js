@@ -119,6 +119,17 @@ export const callFunction = async (name, payload = {}, actor = null) => {
   if (name === 'createOrder') return createOrder(payload, actor)
   if (name === 'deleteOrder') return deleteOrder(payload.id, actor)
   if (name === 'listAccounts') return listAccounts()
+  if (name === 'changePassword') {
+    if (!actor?.uid) throw new Error('Phiên đăng nhập không hợp lệ.')
+    const target = doc(firestore, 'users', actor.uid); const snapshot = await getDoc(target); if (!snapshot.exists()) throw new Error('Không tìm thấy tài khoản.')
+    const before = { uid: snapshot.id, ...snapshot.data() }
+    if (before.passwordHash !== await hashPassword(payload.currentPassword || '')) throw new Error('Mật khẩu hiện tại chưa đúng.')
+    if (String(payload.newPassword || '').length < 6) throw new Error('Mật khẩu mới phải có ít nhất 6 ký tự.')
+    const passwordHash = await hashPassword(payload.newPassword); const after = { ...before, passwordHash, updatedAt: now() }
+    await updateDoc(target, { passwordHash, updatedAt: after.updatedAt })
+    await writeAudit(actor, name, 'user', target.id, after.email, { ...before, passwordHash: '[hidden]' }, { ...after, passwordHash: '[hidden]' })
+    return { ok: true }
+  }
   if (name === 'createAccount') {
     const id = uid('user'); const after = { uid: id, displayName: payload.displayName, email: payload.email.trim().toLowerCase(), passwordHash: await hashPassword(payload.password), role: payload.role || 'user', disabled: Boolean(payload.disabled), createdAt: now(), updatedAt: now() }
     await setDoc(doc(firestore, 'users', id), after); await writeAudit(actor, name, 'user', id, after.email, null, { ...after, passwordHash: '[hidden]' }); return { ...after, passwordHash: undefined }
